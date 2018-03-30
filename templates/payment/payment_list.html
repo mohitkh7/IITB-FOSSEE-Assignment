@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block body %}
+    {% if error %}
+        <p><h3>{{ error_msg }}</h3></p>
+    {% else %}
+         <div class="title text-center">
+            <h3>Payment Detail - {{ month_name }}, {{  year }}</h3>
+        </div>
+        <table class="table table-bordered table-responsive table-striped">
+            <tr>
+                <th>Name</th>
+                <th>Tutorials Submitted</th>
+                <th>Payment Amount</th>
+            </tr>
+            {% for payment in payments %}
+            <tr>
+                <td>{{ payment.name }}</td>
+                <td>{{ payment.number_of_tutorials }}</td>
+                <td>₹{{ payment.amount }}</td>
+            </tr>
+            {% empty %}
+                <td colspan="3" class="text-center"><b>No Tutorial Submitted. Hence No Payment</b></td>
+            {% endfor %}
+        </table>
+        <div class="text-center">
+            <a class="btn btn-primary" href="{% url 'tutorial_list' month=month_value year=year %}">See Tutorial Details</a>
+        </div>
+    {% endif %}
+
+
+{% endblock %}

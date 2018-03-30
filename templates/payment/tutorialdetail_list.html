@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% block body %}
+    <div class="title text-center">
+        <h3>Submitted Tutorials Detail - {{ month_name }}, {{  year }}</h3>
+    </div>
+    <table class="table table-bordered table-responsive table-striped">
+        <tr>
+            <th>Title</th>
+            <th>Series</th>
+            <th>User</th>
+            <th>Expected Submission Date</th>
+            <th>Actual Submission Date</th>
+        </tr>
+        {% for tutorial in tutorialdetail_list %}
+        <tr>
+            <td>{{ tutorial.title }}</td>
+            <td>{{ tutorial.series.title }}</td>
+            <td>{{ tutorial.user.name }}</td>
+            <td>{{ tutorial.expected_submission_date }}</td>
+            <td>{{ tutorial.actual_submission_date }}</td>
+        </tr>
+        {% empty %}
+            <td colspan="5" class="text-center"><b>No Tutorial Submitted</b></td>
+        {% endfor %}
+    </table>
+    <div class="text-center">
+        <a class="btn btn-primary" href="{% url 'payment_list' month=month_value year=year %}">See Payment Details</a>
+    </div>
+{% endblock %}
