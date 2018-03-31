@@ -1,14 +1,13 @@
 import calendar
 
-from django.shortcuts import render
-from django.http import HttpResponse
+from django.shortcuts import render, redirect
 from django.views.generic import ListView
 
 from .models import TutorialDetail, User
 
 
 def index(request):
-    return HttpResponse("All is Well")
+    return redirect('tutorial_list', month=4, year=2018)
 
 
 class TutorialList(ListView):
@@ -30,7 +29,7 @@ class TutorialList(ListView):
         new_context = TutorialDetail.objects.filter(
             actual_submission_date__month=self.month,
             actual_submission_date__year=self.year,
-        )
+        ).order_by('actual_submission_date')
         return new_context
 
 

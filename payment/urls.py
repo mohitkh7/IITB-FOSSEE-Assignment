@@ -19,7 +19,6 @@ from .views import index, TutorialList, payment_list
 
 urlpatterns = [
     path('', index, name="home"),
-    path('tutorial/', TutorialList.as_view(), name="home"),
     path('payment/<int:month>/<int:year>/', payment_list, name="payment_list"),
     path('tutorial/<int:month>/<int:year>/', TutorialList.as_view(), name="tutorial_list"),
 ]
