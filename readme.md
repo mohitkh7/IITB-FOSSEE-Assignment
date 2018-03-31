@@ -25,7 +25,9 @@ The details of IIT Bombay FOSSEE fellowship screening task can be read [here](/d
     python manage.py migrate
     ```
 6. Load the sample data
-    ```python manage.py loaddata db.json```
+    ```
+    python manage.py loaddata db.json
+    ```
     
 7. Run the live development server 
     ```
