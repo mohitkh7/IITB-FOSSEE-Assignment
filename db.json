@@ -1,0 +1,7259 @@
+[
+{
+  "model": "payment.user",
+  "pk": 1,
+  "fields": {
+    "name": "Elise Avery"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 2,
+  "fields": {
+    "name": "Rosa Greer"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 3,
+  "fields": {
+    "name": "Hallie Mccall"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 4,
+  "fields": {
+    "name": "Rollins Sykes"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 5,
+  "fields": {
+    "name": "Bullock Boyer"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 6,
+  "fields": {
+    "name": "Vargas Dunn"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 7,
+  "fields": {
+    "name": "Estella Woodard"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 8,
+  "fields": {
+    "name": "Mcbride Gray"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 9,
+  "fields": {
+    "name": "Beatrice Heath"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 10,
+  "fields": {
+    "name": "Daugherty Gay"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 11,
+  "fields": {
+    "name": "Ronda Chan"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 12,
+  "fields": {
+    "name": "Dale Ratliff"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 13,
+  "fields": {
+    "name": "Caitlin Lester"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 14,
+  "fields": {
+    "name": "Sybil Carney"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 15,
+  "fields": {
+    "name": "Byrd Hunt"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 16,
+  "fields": {
+    "name": "Rivera Golden"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 17,
+  "fields": {
+    "name": "Mcfarland Frye"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 18,
+  "fields": {
+    "name": "Decker Fisher"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 19,
+  "fields": {
+    "name": "Bettye Goff"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 20,
+  "fields": {
+    "name": "Pitts Crane"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 21,
+  "fields": {
+    "name": "Liliana Lambert"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 22,
+  "fields": {
+    "name": "Gaines Christian"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 23,
+  "fields": {
+    "name": "Mari Merritt"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 24,
+  "fields": {
+    "name": "Graves Williamson"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 25,
+  "fields": {
+    "name": "Marci Deleon"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 26,
+  "fields": {
+    "name": "Keri Clements"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 27,
+  "fields": {
+    "name": "Cole Christensen"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 28,
+  "fields": {
+    "name": "Prince Cleveland"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 29,
+  "fields": {
+    "name": "Kristen Espinoza"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 30,
+  "fields": {
+    "name": "Kara Rowe"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 31,
+  "fields": {
+    "name": "Mcleod Lee"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 32,
+  "fields": {
+    "name": "Nieves Walsh"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 33,
+  "fields": {
+    "name": "Audrey Cohen"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 34,
+  "fields": {
+    "name": "Anna Sweeney"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 35,
+  "fields": {
+    "name": "Wallace Fleming"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 36,
+  "fields": {
+    "name": "Lacey Lamb"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 37,
+  "fields": {
+    "name": "Fowler Merrill"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 38,
+  "fields": {
+    "name": "Carrillo Nixon"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 39,
+  "fields": {
+    "name": "Kramer Patton"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 40,
+  "fields": {
+    "name": "Deborah Decker"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 41,
+  "fields": {
+    "name": "Johnston Guzman"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 42,
+  "fields": {
+    "name": "Jennings Molina"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 43,
+  "fields": {
+    "name": "Cook Dotson"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 44,
+  "fields": {
+    "name": "Nancy Moore"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 45,
+  "fields": {
+    "name": "Christi Rodriquez"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 46,
+  "fields": {
+    "name": "Levine Maldonado"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 47,
+  "fields": {
+    "name": "Higgins Bishop"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 48,
+  "fields": {
+    "name": "Hudson Drake"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 49,
+  "fields": {
+    "name": "Gregory Crawford"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 50,
+  "fields": {
+    "name": "Jacqueline Norton"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 51,
+  "fields": {
+    "name": "Winters Massey"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 52,
+  "fields": {
+    "name": "Martinez Reynolds"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 53,
+  "fields": {
+    "name": "Jeanne Blevins"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 54,
+  "fields": {
+    "name": "Copeland Larsen"
+  }
+},
+{
+  "model": "payment.user",
+  "pk": 55,
+  "fields": {
+    "name": "Grimes Welch"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 1,
+  "fields": {
+    "title": "Python"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 2,
+  "fields": {
+    "title": "Java"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 3,
+  "fields": {
+    "title": "Javascript"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 4,
+  "fields": {
+    "title": "Erlang"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 5,
+  "fields": {
+    "title": "Go"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 6,
+  "fields": {
+    "title": "C++"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 7,
+  "fields": {
+    "title": "Lisp"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 8,
+  "fields": {
+    "title": "Kotlin"
+  }
+},
+{
+  "model": "payment.foss",
+  "pk": 9,
+  "fields": {
+    "title": "Swift"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 0,
+  "fields": {
+    "series": 4,
+    "title": "Perkle - tutorial - Florine",
+    "user": 49,
+    "expected_submission_date": "2017-12-18",
+    "actual_submission_date": "2017-11-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 1,
+  "fields": {
+    "series": 1,
+    "title": "Comtract - tutorial - Carver",
+    "user": 7,
+    "expected_submission_date": "2019-08-22",
+    "actual_submission_date": "2019-02-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 2,
+  "fields": {
+    "series": 7,
+    "title": "Synkgen - tutorial - Bonnie",
+    "user": 17,
+    "expected_submission_date": "2019-05-23",
+    "actual_submission_date": "2017-09-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 3,
+  "fields": {
+    "series": 7,
+    "title": "Zillactic - tutorial - Deborah",
+    "user": 9,
+    "expected_submission_date": "2017-11-05",
+    "actual_submission_date": "2018-10-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 4,
+  "fields": {
+    "series": 7,
+    "title": "Supportal - tutorial - Humphrey",
+    "user": 5,
+    "expected_submission_date": "2017-08-13",
+    "actual_submission_date": "2017-08-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 5,
+  "fields": {
+    "series": 4,
+    "title": "Gonkle - tutorial - West",
+    "user": 19,
+    "expected_submission_date": "2019-12-31",
+    "actual_submission_date": "2018-04-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 6,
+  "fields": {
+    "series": 3,
+    "title": "Dancity - tutorial - Francis",
+    "user": 34,
+    "expected_submission_date": "2018-02-04",
+    "actual_submission_date": "2019-12-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 7,
+  "fields": {
+    "series": 9,
+    "title": "Comvoy - tutorial - Waller",
+    "user": 37,
+    "expected_submission_date": "2018-08-16",
+    "actual_submission_date": "2019-07-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 8,
+  "fields": {
+    "series": 9,
+    "title": "Applideck - tutorial - Terrell",
+    "user": 50,
+    "expected_submission_date": "2018-09-06",
+    "actual_submission_date": "2017-04-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 9,
+  "fields": {
+    "series": 1,
+    "title": "Comdom - tutorial - Mason",
+    "user": 23,
+    "expected_submission_date": "2019-08-11",
+    "actual_submission_date": "2017-04-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 10,
+  "fields": {
+    "series": 1,
+    "title": "Sloganaut - tutorial - Obrien",
+    "user": 47,
+    "expected_submission_date": "2017-05-01",
+    "actual_submission_date": "2017-07-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 11,
+  "fields": {
+    "series": 9,
+    "title": "Corpulse - tutorial - Kerr",
+    "user": 38,
+    "expected_submission_date": "2017-02-08",
+    "actual_submission_date": "2017-09-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 12,
+  "fields": {
+    "series": 2,
+    "title": "Syntac - tutorial - Hooper",
+    "user": 27,
+    "expected_submission_date": "2017-09-18",
+    "actual_submission_date": "2017-07-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 13,
+  "fields": {
+    "series": 3,
+    "title": "Turnling - tutorial - Greta",
+    "user": 44,
+    "expected_submission_date": "2018-08-21",
+    "actual_submission_date": "2019-11-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 14,
+  "fields": {
+    "series": 6,
+    "title": "Boilicon - tutorial - Winters",
+    "user": 36,
+    "expected_submission_date": "2017-07-24",
+    "actual_submission_date": "2019-11-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 15,
+  "fields": {
+    "series": 4,
+    "title": "Snips - tutorial - Casandra",
+    "user": 6,
+    "expected_submission_date": "2018-08-07",
+    "actual_submission_date": "2017-09-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 16,
+  "fields": {
+    "series": 1,
+    "title": "Ovation - tutorial - Lynch",
+    "user": 17,
+    "expected_submission_date": "2017-01-25",
+    "actual_submission_date": "2019-08-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 17,
+  "fields": {
+    "series": 5,
+    "title": "Fanfare - tutorial - Schultz",
+    "user": 15,
+    "expected_submission_date": "2017-03-02",
+    "actual_submission_date": "2020-01-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 18,
+  "fields": {
+    "series": 4,
+    "title": "Solgan - tutorial - Romero",
+    "user": 44,
+    "expected_submission_date": "2019-10-21",
+    "actual_submission_date": "2018-02-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 19,
+  "fields": {
+    "series": 3,
+    "title": "Zentime - tutorial - Marsh",
+    "user": 48,
+    "expected_submission_date": "2019-12-01",
+    "actual_submission_date": "2018-06-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 20,
+  "fields": {
+    "series": 1,
+    "title": "Plexia - tutorial - Rosemarie",
+    "user": 5,
+    "expected_submission_date": "2019-06-05",
+    "actual_submission_date": "2017-11-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 21,
+  "fields": {
+    "series": 2,
+    "title": "Kidstock - tutorial - Carol",
+    "user": 14,
+    "expected_submission_date": "2019-10-08",
+    "actual_submission_date": "2018-05-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 22,
+  "fields": {
+    "series": 9,
+    "title": "Senmei - tutorial - Pickett",
+    "user": 34,
+    "expected_submission_date": "2019-11-05",
+    "actual_submission_date": "2018-03-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 23,
+  "fields": {
+    "series": 5,
+    "title": "Kidgrease - tutorial - Guerra",
+    "user": 36,
+    "expected_submission_date": "2017-02-05",
+    "actual_submission_date": "2018-01-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 24,
+  "fields": {
+    "series": 9,
+    "title": "Exozent - tutorial - Conway",
+    "user": 30,
+    "expected_submission_date": "2018-05-01",
+    "actual_submission_date": "2019-06-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 25,
+  "fields": {
+    "series": 6,
+    "title": "Omatom - tutorial - Dunn",
+    "user": 33,
+    "expected_submission_date": "2018-12-08",
+    "actual_submission_date": "2019-05-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 26,
+  "fields": {
+    "series": 2,
+    "title": "Maximind - tutorial - Vang",
+    "user": 9,
+    "expected_submission_date": "2019-06-08",
+    "actual_submission_date": "2019-04-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 27,
+  "fields": {
+    "series": 9,
+    "title": "Zeam - tutorial - Roberts",
+    "user": 31,
+    "expected_submission_date": "2018-11-30",
+    "actual_submission_date": "2018-09-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 28,
+  "fields": {
+    "series": 6,
+    "title": "Corepan - tutorial - Vickie",
+    "user": 24,
+    "expected_submission_date": "2019-10-04",
+    "actual_submission_date": "2019-11-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 29,
+  "fields": {
+    "series": 5,
+    "title": "Eargo - tutorial - Mccullough",
+    "user": 42,
+    "expected_submission_date": "2019-04-29",
+    "actual_submission_date": "2019-03-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 30,
+  "fields": {
+    "series": 9,
+    "title": "Homelux - tutorial - Ophelia",
+    "user": 41,
+    "expected_submission_date": "2019-08-26",
+    "actual_submission_date": "2019-09-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 31,
+  "fields": {
+    "series": 8,
+    "title": "Hometown - tutorial - Pamela",
+    "user": 17,
+    "expected_submission_date": "2018-06-19",
+    "actual_submission_date": "2017-11-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 32,
+  "fields": {
+    "series": 6,
+    "title": "Techtrix - tutorial - Lara",
+    "user": 50,
+    "expected_submission_date": "2019-10-25",
+    "actual_submission_date": "2019-06-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 33,
+  "fields": {
+    "series": 3,
+    "title": "Earthwax - tutorial - Tia",
+    "user": 48,
+    "expected_submission_date": "2017-06-06",
+    "actual_submission_date": "2018-12-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 34,
+  "fields": {
+    "series": 6,
+    "title": "Fuelton - tutorial - Lela",
+    "user": 42,
+    "expected_submission_date": "2017-12-18",
+    "actual_submission_date": "2017-11-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 35,
+  "fields": {
+    "series": 3,
+    "title": "Maineland - tutorial - Rice",
+    "user": 7,
+    "expected_submission_date": "2019-09-04",
+    "actual_submission_date": "2018-08-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 36,
+  "fields": {
+    "series": 8,
+    "title": "Orbixtar - tutorial - Adriana",
+    "user": 35,
+    "expected_submission_date": "2018-10-19",
+    "actual_submission_date": "2020-01-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 37,
+  "fields": {
+    "series": 6,
+    "title": "Roboid - tutorial - Walker",
+    "user": 49,
+    "expected_submission_date": "2018-03-09",
+    "actual_submission_date": "2018-05-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 38,
+  "fields": {
+    "series": 2,
+    "title": "Acruex - tutorial - Kerry",
+    "user": 50,
+    "expected_submission_date": "2018-08-01",
+    "actual_submission_date": "2018-07-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 39,
+  "fields": {
+    "series": 4,
+    "title": "Geoforma - tutorial - Fanny",
+    "user": 11,
+    "expected_submission_date": "2019-07-09",
+    "actual_submission_date": "2017-06-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 40,
+  "fields": {
+    "series": 2,
+    "title": "Xplor - tutorial - Sheena",
+    "user": 3,
+    "expected_submission_date": "2018-08-22",
+    "actual_submission_date": "2019-12-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 41,
+  "fields": {
+    "series": 9,
+    "title": "Xanide - tutorial - Tate",
+    "user": 41,
+    "expected_submission_date": "2017-09-22",
+    "actual_submission_date": "2017-06-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 42,
+  "fields": {
+    "series": 9,
+    "title": "Orboid - tutorial - Medina",
+    "user": 33,
+    "expected_submission_date": "2017-12-06",
+    "actual_submission_date": "2018-04-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 43,
+  "fields": {
+    "series": 1,
+    "title": "Retrotex - tutorial - Ginger",
+    "user": 48,
+    "expected_submission_date": "2018-06-15",
+    "actual_submission_date": "2019-10-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 44,
+  "fields": {
+    "series": 1,
+    "title": "Manglo - tutorial - Amy",
+    "user": 48,
+    "expected_submission_date": "2017-01-31",
+    "actual_submission_date": "2018-06-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 45,
+  "fields": {
+    "series": 6,
+    "title": "Isotronic - tutorial - Olson",
+    "user": 49,
+    "expected_submission_date": "2018-03-31",
+    "actual_submission_date": "2019-07-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 46,
+  "fields": {
+    "series": 6,
+    "title": "Arctiq - tutorial - Hayes",
+    "user": 11,
+    "expected_submission_date": "2019-01-02",
+    "actual_submission_date": "2019-09-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 47,
+  "fields": {
+    "series": 1,
+    "title": "Isotrack - tutorial - Roslyn",
+    "user": 15,
+    "expected_submission_date": "2019-12-31",
+    "actual_submission_date": "2019-09-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 48,
+  "fields": {
+    "series": 6,
+    "title": "Flotonic - tutorial - Hobbs",
+    "user": 29,
+    "expected_submission_date": "2017-04-27",
+    "actual_submission_date": "2019-04-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 49,
+  "fields": {
+    "series": 5,
+    "title": "Globoil - tutorial - Dyer",
+    "user": 21,
+    "expected_submission_date": "2019-09-18",
+    "actual_submission_date": "2017-06-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 50,
+  "fields": {
+    "series": 9,
+    "title": "Duoflex - tutorial - Antoinette",
+    "user": 20,
+    "expected_submission_date": "2018-07-18",
+    "actual_submission_date": "2019-12-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 51,
+  "fields": {
+    "series": 6,
+    "title": "Genekom - tutorial - Carly",
+    "user": 32,
+    "expected_submission_date": "2018-08-16",
+    "actual_submission_date": "2019-06-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 52,
+  "fields": {
+    "series": 7,
+    "title": "Exodoc - tutorial - Marcie",
+    "user": 7,
+    "expected_submission_date": "2017-12-04",
+    "actual_submission_date": "2019-01-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 53,
+  "fields": {
+    "series": 3,
+    "title": "Xixan - tutorial - Annmarie",
+    "user": 7,
+    "expected_submission_date": "2019-11-18",
+    "actual_submission_date": "2017-06-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 54,
+  "fields": {
+    "series": 7,
+    "title": "Magnafone - tutorial - Stephenson",
+    "user": 16,
+    "expected_submission_date": "2019-09-19",
+    "actual_submission_date": "2017-01-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 55,
+  "fields": {
+    "series": 7,
+    "title": "Hinway - tutorial - Sheppard",
+    "user": 31,
+    "expected_submission_date": "2018-07-02",
+    "actual_submission_date": "2017-01-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 56,
+  "fields": {
+    "series": 1,
+    "title": "Eplode - tutorial - Berg",
+    "user": 2,
+    "expected_submission_date": "2019-02-21",
+    "actual_submission_date": "2017-08-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 57,
+  "fields": {
+    "series": 4,
+    "title": "Hyplex - tutorial - Haney",
+    "user": 5,
+    "expected_submission_date": "2018-10-07",
+    "actual_submission_date": "2017-02-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 58,
+  "fields": {
+    "series": 4,
+    "title": "Twiggery - tutorial - Virgie",
+    "user": 14,
+    "expected_submission_date": "2017-03-01",
+    "actual_submission_date": "2017-09-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 59,
+  "fields": {
+    "series": 1,
+    "title": "Reversus - tutorial - Lamb",
+    "user": 7,
+    "expected_submission_date": "2017-10-14",
+    "actual_submission_date": "2018-06-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 60,
+  "fields": {
+    "series": 6,
+    "title": "Ecraze - tutorial - Ruiz",
+    "user": 19,
+    "expected_submission_date": "2018-10-16",
+    "actual_submission_date": "2017-05-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 61,
+  "fields": {
+    "series": 8,
+    "title": "Verbus - tutorial - Brandy",
+    "user": 42,
+    "expected_submission_date": "2017-05-19",
+    "actual_submission_date": "2020-01-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 62,
+  "fields": {
+    "series": 5,
+    "title": "Equitox - tutorial - Thornton",
+    "user": 20,
+    "expected_submission_date": "2019-03-18",
+    "actual_submission_date": "2018-06-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 63,
+  "fields": {
+    "series": 1,
+    "title": "Quonata - tutorial - Soto",
+    "user": 31,
+    "expected_submission_date": "2019-02-19",
+    "actual_submission_date": "2019-05-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 64,
+  "fields": {
+    "series": 5,
+    "title": "Orbiflex - tutorial - Patrica",
+    "user": 7,
+    "expected_submission_date": "2017-09-25",
+    "actual_submission_date": "2017-01-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 65,
+  "fields": {
+    "series": 1,
+    "title": "Kineticut - tutorial - Nadia",
+    "user": 20,
+    "expected_submission_date": "2019-07-04",
+    "actual_submission_date": "2018-03-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 66,
+  "fields": {
+    "series": 5,
+    "title": "Zillidium - tutorial - Selena",
+    "user": 33,
+    "expected_submission_date": "2019-03-31",
+    "actual_submission_date": "2018-04-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 67,
+  "fields": {
+    "series": 5,
+    "title": "Dreamia - tutorial - Potts",
+    "user": 28,
+    "expected_submission_date": "2017-03-06",
+    "actual_submission_date": "2017-04-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 68,
+  "fields": {
+    "series": 1,
+    "title": "Zillacom - tutorial - Audra",
+    "user": 9,
+    "expected_submission_date": "2017-01-09",
+    "actual_submission_date": "2017-11-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 69,
+  "fields": {
+    "series": 8,
+    "title": "Securia - tutorial - Adkins",
+    "user": 36,
+    "expected_submission_date": "2019-08-31",
+    "actual_submission_date": "2017-04-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 70,
+  "fields": {
+    "series": 5,
+    "title": "Norsul - tutorial - Velazquez",
+    "user": 10,
+    "expected_submission_date": "2019-05-05",
+    "actual_submission_date": "2019-03-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 71,
+  "fields": {
+    "series": 9,
+    "title": "Zytrek - tutorial - Graves",
+    "user": 11,
+    "expected_submission_date": "2018-05-12",
+    "actual_submission_date": "2018-09-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 72,
+  "fields": {
+    "series": 7,
+    "title": "Xumonk - tutorial - Estes",
+    "user": 6,
+    "expected_submission_date": "2018-02-28",
+    "actual_submission_date": "2019-10-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 73,
+  "fields": {
+    "series": 5,
+    "title": "Zenthall - tutorial - Wanda",
+    "user": 4,
+    "expected_submission_date": "2018-04-05",
+    "actual_submission_date": "2018-10-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 74,
+  "fields": {
+    "series": 4,
+    "title": "Noralex - tutorial - Briana",
+    "user": 42,
+    "expected_submission_date": "2018-02-09",
+    "actual_submission_date": "2017-06-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 75,
+  "fields": {
+    "series": 1,
+    "title": "Geeky - tutorial - Leola",
+    "user": 40,
+    "expected_submission_date": "2017-02-18",
+    "actual_submission_date": "2017-05-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 76,
+  "fields": {
+    "series": 9,
+    "title": "Ultrimax - tutorial - Justine",
+    "user": 40,
+    "expected_submission_date": "2017-02-06",
+    "actual_submission_date": "2017-12-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 77,
+  "fields": {
+    "series": 6,
+    "title": "Papricut - tutorial - Mathews",
+    "user": 10,
+    "expected_submission_date": "2018-09-09",
+    "actual_submission_date": "2018-06-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 78,
+  "fields": {
+    "series": 6,
+    "title": "Ecratic - tutorial - Maryann",
+    "user": 15,
+    "expected_submission_date": "2018-08-05",
+    "actual_submission_date": "2018-12-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 79,
+  "fields": {
+    "series": 8,
+    "title": "Uberlux - tutorial - Burnett",
+    "user": 37,
+    "expected_submission_date": "2018-09-25",
+    "actual_submission_date": "2018-08-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 80,
+  "fields": {
+    "series": 5,
+    "title": "Golistic - tutorial - Eula",
+    "user": 3,
+    "expected_submission_date": "2019-04-23",
+    "actual_submission_date": "2017-10-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 81,
+  "fields": {
+    "series": 7,
+    "title": "Zomboid - tutorial - Kidd",
+    "user": 13,
+    "expected_submission_date": "2018-06-10",
+    "actual_submission_date": "2017-06-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 82,
+  "fields": {
+    "series": 6,
+    "title": "Voipa - tutorial - Franklin",
+    "user": 15,
+    "expected_submission_date": "2017-09-03",
+    "actual_submission_date": "2018-01-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 83,
+  "fields": {
+    "series": 8,
+    "title": "Isologix - tutorial - Clarice",
+    "user": 27,
+    "expected_submission_date": "2017-05-20",
+    "actual_submission_date": "2018-04-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 84,
+  "fields": {
+    "series": 1,
+    "title": "Cogentry - tutorial - Weaver",
+    "user": 14,
+    "expected_submission_date": "2018-03-05",
+    "actual_submission_date": "2019-11-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 85,
+  "fields": {
+    "series": 8,
+    "title": "Goko - tutorial - Lydia",
+    "user": 10,
+    "expected_submission_date": "2017-10-19",
+    "actual_submission_date": "2019-03-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 86,
+  "fields": {
+    "series": 3,
+    "title": "Entropix - tutorial - Bishop",
+    "user": 3,
+    "expected_submission_date": "2019-03-09",
+    "actual_submission_date": "2018-05-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 87,
+  "fields": {
+    "series": 4,
+    "title": "Filodyne - tutorial - Margaret",
+    "user": 11,
+    "expected_submission_date": "2018-03-09",
+    "actual_submission_date": "2018-11-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 88,
+  "fields": {
+    "series": 9,
+    "title": "Nimon - tutorial - Sophie",
+    "user": 17,
+    "expected_submission_date": "2018-11-12",
+    "actual_submission_date": "2018-06-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 89,
+  "fields": {
+    "series": 3,
+    "title": "Trasola - tutorial - Carey",
+    "user": 21,
+    "expected_submission_date": "2020-01-01",
+    "actual_submission_date": "2017-07-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 90,
+  "fields": {
+    "series": 3,
+    "title": "Uni - tutorial - Griffith",
+    "user": 35,
+    "expected_submission_date": "2017-10-08",
+    "actual_submission_date": "2018-12-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 91,
+  "fields": {
+    "series": 3,
+    "title": "Exposa - tutorial - Geneva",
+    "user": 29,
+    "expected_submission_date": "2018-08-17",
+    "actual_submission_date": "2018-06-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 92,
+  "fields": {
+    "series": 6,
+    "title": "Xurban - tutorial - Hernandez",
+    "user": 33,
+    "expected_submission_date": "2018-12-06",
+    "actual_submission_date": "2018-02-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 93,
+  "fields": {
+    "series": 9,
+    "title": "Interodeo - tutorial - Copeland",
+    "user": 19,
+    "expected_submission_date": "2019-06-23",
+    "actual_submission_date": "2017-08-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 94,
+  "fields": {
+    "series": 1,
+    "title": "Inquala - tutorial - Ora",
+    "user": 39,
+    "expected_submission_date": "2020-01-24",
+    "actual_submission_date": "2019-05-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 95,
+  "fields": {
+    "series": 2,
+    "title": "Playce - tutorial - Blackwell",
+    "user": 11,
+    "expected_submission_date": "2019-05-30",
+    "actual_submission_date": "2018-01-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 96,
+  "fields": {
+    "series": 1,
+    "title": "Otherway - tutorial - Alma",
+    "user": 22,
+    "expected_submission_date": "2017-05-30",
+    "actual_submission_date": "2019-01-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 97,
+  "fields": {
+    "series": 7,
+    "title": "Exospace - tutorial - Chase",
+    "user": 11,
+    "expected_submission_date": "2017-06-22",
+    "actual_submission_date": "2018-12-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 98,
+  "fields": {
+    "series": 2,
+    "title": "Jumpstack - tutorial - Kirkland",
+    "user": 19,
+    "expected_submission_date": "2018-02-04",
+    "actual_submission_date": "2017-03-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 99,
+  "fields": {
+    "series": 9,
+    "title": "Anivet - tutorial - Cervantes",
+    "user": 15,
+    "expected_submission_date": "2018-09-18",
+    "actual_submission_date": "2019-03-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 100,
+  "fields": {
+    "series": 1,
+    "title": "Gorganic - tutorial - Bianca",
+    "user": 32,
+    "expected_submission_date": "2017-08-02",
+    "actual_submission_date": "2018-07-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 101,
+  "fields": {
+    "series": 8,
+    "title": "Tripsch - tutorial - Chan",
+    "user": 13,
+    "expected_submission_date": "2019-02-23",
+    "actual_submission_date": "2017-08-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 102,
+  "fields": {
+    "series": 1,
+    "title": "Signidyne - tutorial - Baird",
+    "user": 36,
+    "expected_submission_date": "2018-12-24",
+    "actual_submission_date": "2017-05-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 103,
+  "fields": {
+    "series": 5,
+    "title": "Utarian - tutorial - Ann",
+    "user": 32,
+    "expected_submission_date": "2017-09-11",
+    "actual_submission_date": "2019-08-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 104,
+  "fields": {
+    "series": 9,
+    "title": "Insurety - tutorial - Foreman",
+    "user": 28,
+    "expected_submission_date": "2018-09-27",
+    "actual_submission_date": "2018-10-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 105,
+  "fields": {
+    "series": 7,
+    "title": "Zizzle - tutorial - Melva",
+    "user": 21,
+    "expected_submission_date": "2017-01-19",
+    "actual_submission_date": "2019-03-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 106,
+  "fields": {
+    "series": 6,
+    "title": "Euron - tutorial - Schneider",
+    "user": 35,
+    "expected_submission_date": "2019-05-12",
+    "actual_submission_date": "2019-10-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 107,
+  "fields": {
+    "series": 9,
+    "title": "Inrt - tutorial - Hatfield",
+    "user": 4,
+    "expected_submission_date": "2018-08-02",
+    "actual_submission_date": "2017-06-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 108,
+  "fields": {
+    "series": 6,
+    "title": "Parleynet - tutorial - Cortez",
+    "user": 3,
+    "expected_submission_date": "2017-02-12",
+    "actual_submission_date": "2019-07-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 109,
+  "fields": {
+    "series": 1,
+    "title": "Nixelt - tutorial - Briggs",
+    "user": 8,
+    "expected_submission_date": "2019-09-23",
+    "actual_submission_date": "2019-02-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 110,
+  "fields": {
+    "series": 9,
+    "title": "Zipak - tutorial - Miriam",
+    "user": 43,
+    "expected_submission_date": "2017-04-09",
+    "actual_submission_date": "2018-10-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 111,
+  "fields": {
+    "series": 2,
+    "title": "Viagrand - tutorial - Paula",
+    "user": 1,
+    "expected_submission_date": "2017-03-07",
+    "actual_submission_date": "2018-04-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 112,
+  "fields": {
+    "series": 4,
+    "title": "Egypto - tutorial - Calderon",
+    "user": 49,
+    "expected_submission_date": "2018-12-18",
+    "actual_submission_date": "2019-11-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 113,
+  "fields": {
+    "series": 7,
+    "title": "Ebidco - tutorial - Freeman",
+    "user": 23,
+    "expected_submission_date": "2018-04-10",
+    "actual_submission_date": "2017-01-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 114,
+  "fields": {
+    "series": 4,
+    "title": "Zosis - tutorial - Heather",
+    "user": 48,
+    "expected_submission_date": "2018-08-22",
+    "actual_submission_date": "2018-11-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 115,
+  "fields": {
+    "series": 4,
+    "title": "Gushkool - tutorial - Minnie",
+    "user": 35,
+    "expected_submission_date": "2019-05-05",
+    "actual_submission_date": "2020-01-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 116,
+  "fields": {
+    "series": 7,
+    "title": "Poochies - tutorial - Rasmussen",
+    "user": 4,
+    "expected_submission_date": "2019-01-01",
+    "actual_submission_date": "2019-02-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 117,
+  "fields": {
+    "series": 9,
+    "title": "Shepard - tutorial - Dodson",
+    "user": 4,
+    "expected_submission_date": "2017-06-28",
+    "actual_submission_date": "2019-11-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 118,
+  "fields": {
+    "series": 1,
+    "title": "Geeketron - tutorial - Laurie",
+    "user": 45,
+    "expected_submission_date": "2017-07-18",
+    "actual_submission_date": "2019-07-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 119,
+  "fields": {
+    "series": 1,
+    "title": "Steeltab - tutorial - Shaffer",
+    "user": 18,
+    "expected_submission_date": "2019-04-28",
+    "actual_submission_date": "2017-06-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 120,
+  "fields": {
+    "series": 4,
+    "title": "Confrenzy - tutorial - Mejia",
+    "user": 42,
+    "expected_submission_date": "2017-07-07",
+    "actual_submission_date": "2019-05-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 121,
+  "fields": {
+    "series": 4,
+    "title": "Eventex - tutorial - Floyd",
+    "user": 28,
+    "expected_submission_date": "2018-04-03",
+    "actual_submission_date": "2019-09-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 122,
+  "fields": {
+    "series": 4,
+    "title": "Verton - tutorial - Teri",
+    "user": 39,
+    "expected_submission_date": "2018-12-03",
+    "actual_submission_date": "2017-04-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 123,
+  "fields": {
+    "series": 8,
+    "title": "Liquicom - tutorial - Rachelle",
+    "user": 33,
+    "expected_submission_date": "2018-05-06",
+    "actual_submission_date": "2018-12-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 124,
+  "fields": {
+    "series": 4,
+    "title": "Cubicide - tutorial - Pratt",
+    "user": 9,
+    "expected_submission_date": "2019-03-12",
+    "actual_submission_date": "2017-11-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 125,
+  "fields": {
+    "series": 1,
+    "title": "Zolarity - tutorial - Rosanne",
+    "user": 37,
+    "expected_submission_date": "2017-12-01",
+    "actual_submission_date": "2018-06-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 126,
+  "fields": {
+    "series": 2,
+    "title": "Ozean - tutorial - Beverly",
+    "user": 7,
+    "expected_submission_date": "2018-02-25",
+    "actual_submission_date": "2019-11-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 127,
+  "fields": {
+    "series": 4,
+    "title": "Progenex - tutorial - Janie",
+    "user": 4,
+    "expected_submission_date": "2017-03-04",
+    "actual_submission_date": "2018-08-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 128,
+  "fields": {
+    "series": 2,
+    "title": "Vurbo - tutorial - Angelique",
+    "user": 31,
+    "expected_submission_date": "2018-04-10",
+    "actual_submission_date": "2017-07-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 129,
+  "fields": {
+    "series": 9,
+    "title": "Techmania - tutorial - Marcia",
+    "user": 33,
+    "expected_submission_date": "2018-08-31",
+    "actual_submission_date": "2017-11-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 130,
+  "fields": {
+    "series": 5,
+    "title": "Orbean - tutorial - Terry",
+    "user": 1,
+    "expected_submission_date": "2019-08-23",
+    "actual_submission_date": "2019-05-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 131,
+  "fields": {
+    "series": 8,
+    "title": "Joviold - tutorial - Rodriguez",
+    "user": 22,
+    "expected_submission_date": "2017-11-10",
+    "actual_submission_date": "2018-03-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 132,
+  "fields": {
+    "series": 7,
+    "title": "Bytrex - tutorial - Concetta",
+    "user": 44,
+    "expected_submission_date": "2018-01-04",
+    "actual_submission_date": "2018-10-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 133,
+  "fields": {
+    "series": 7,
+    "title": "Terrasys - tutorial - Savage",
+    "user": 28,
+    "expected_submission_date": "2017-07-10",
+    "actual_submission_date": "2017-07-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 134,
+  "fields": {
+    "series": 9,
+    "title": "Insurity - tutorial - Inez",
+    "user": 38,
+    "expected_submission_date": "2020-01-05",
+    "actual_submission_date": "2019-01-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 135,
+  "fields": {
+    "series": 1,
+    "title": "Futurity - tutorial - Ferguson",
+    "user": 35,
+    "expected_submission_date": "2018-04-27",
+    "actual_submission_date": "2018-11-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 136,
+  "fields": {
+    "series": 2,
+    "title": "Zoid - tutorial - Cummings",
+    "user": 14,
+    "expected_submission_date": "2019-08-27",
+    "actual_submission_date": "2019-05-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 137,
+  "fields": {
+    "series": 8,
+    "title": "Kog - tutorial - Nanette",
+    "user": 4,
+    "expected_submission_date": "2018-12-17",
+    "actual_submission_date": "2018-08-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 138,
+  "fields": {
+    "series": 2,
+    "title": "Portico - tutorial - Oneal",
+    "user": 25,
+    "expected_submission_date": "2017-08-20",
+    "actual_submission_date": "2017-08-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 139,
+  "fields": {
+    "series": 9,
+    "title": "Portalis - tutorial - Claudia",
+    "user": 50,
+    "expected_submission_date": "2018-12-13",
+    "actual_submission_date": "2019-10-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 140,
+  "fields": {
+    "series": 5,
+    "title": "Bolax - tutorial - Deidre",
+    "user": 20,
+    "expected_submission_date": "2020-01-06",
+    "actual_submission_date": "2019-01-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 141,
+  "fields": {
+    "series": 9,
+    "title": "Zuvy - tutorial - Dionne",
+    "user": 40,
+    "expected_submission_date": "2019-07-11",
+    "actual_submission_date": "2018-11-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 142,
+  "fields": {
+    "series": 7,
+    "title": "Gynk - tutorial - Marla",
+    "user": 20,
+    "expected_submission_date": "2017-09-03",
+    "actual_submission_date": "2018-06-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 143,
+  "fields": {
+    "series": 6,
+    "title": "Dragbot - tutorial - Alissa",
+    "user": 4,
+    "expected_submission_date": "2019-10-11",
+    "actual_submission_date": "2019-10-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 144,
+  "fields": {
+    "series": 7,
+    "title": "Tellifly - tutorial - Estelle",
+    "user": 13,
+    "expected_submission_date": "2019-11-03",
+    "actual_submission_date": "2017-06-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 145,
+  "fields": {
+    "series": 5,
+    "title": "Xleen - tutorial - Isabel",
+    "user": 44,
+    "expected_submission_date": "2019-04-18",
+    "actual_submission_date": "2017-09-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 146,
+  "fields": {
+    "series": 8,
+    "title": "Zerbina - tutorial - Edwina",
+    "user": 22,
+    "expected_submission_date": "2018-01-25",
+    "actual_submission_date": "2019-05-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 147,
+  "fields": {
+    "series": 7,
+    "title": "Aquamate - tutorial - Dickerson",
+    "user": 38,
+    "expected_submission_date": "2019-07-15",
+    "actual_submission_date": "2019-02-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 148,
+  "fields": {
+    "series": 5,
+    "title": "Isologics - tutorial - Yvette",
+    "user": 33,
+    "expected_submission_date": "2018-04-25",
+    "actual_submission_date": "2018-02-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 149,
+  "fields": {
+    "series": 7,
+    "title": "Senmao - tutorial - Galloway",
+    "user": 22,
+    "expected_submission_date": "2019-04-14",
+    "actual_submission_date": "2019-04-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 150,
+  "fields": {
+    "series": 1,
+    "title": "Ewaves - tutorial - Glover",
+    "user": 31,
+    "expected_submission_date": "2019-02-22",
+    "actual_submission_date": "2018-02-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 151,
+  "fields": {
+    "series": 3,
+    "title": "Intrawear - tutorial - Mayer",
+    "user": 27,
+    "expected_submission_date": "2018-01-10",
+    "actual_submission_date": "2019-10-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 152,
+  "fields": {
+    "series": 9,
+    "title": "Endipin - tutorial - Pearlie",
+    "user": 20,
+    "expected_submission_date": "2019-08-16",
+    "actual_submission_date": "2018-11-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 153,
+  "fields": {
+    "series": 2,
+    "title": "Earthplex - tutorial - Liz",
+    "user": 34,
+    "expected_submission_date": "2018-02-16",
+    "actual_submission_date": "2017-05-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 154,
+  "fields": {
+    "series": 9,
+    "title": "Netplax - tutorial - Riddle",
+    "user": 3,
+    "expected_submission_date": "2017-11-27",
+    "actual_submission_date": "2018-03-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 155,
+  "fields": {
+    "series": 8,
+    "title": "Dognosis - tutorial - Shirley",
+    "user": 30,
+    "expected_submission_date": "2017-05-05",
+    "actual_submission_date": "2019-07-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 156,
+  "fields": {
+    "series": 8,
+    "title": "Assistia - tutorial - Louise",
+    "user": 7,
+    "expected_submission_date": "2018-04-18",
+    "actual_submission_date": "2017-03-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 157,
+  "fields": {
+    "series": 8,
+    "title": "Octocore - tutorial - Harper",
+    "user": 28,
+    "expected_submission_date": "2019-12-18",
+    "actual_submission_date": "2018-05-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 158,
+  "fields": {
+    "series": 1,
+    "title": "Terascape - tutorial - Craig",
+    "user": 15,
+    "expected_submission_date": "2017-12-02",
+    "actual_submission_date": "2018-05-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 159,
+  "fields": {
+    "series": 4,
+    "title": "Limozen - tutorial - Nola",
+    "user": 10,
+    "expected_submission_date": "2018-06-22",
+    "actual_submission_date": "2019-06-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 160,
+  "fields": {
+    "series": 1,
+    "title": "Supremia - tutorial - Meredith",
+    "user": 49,
+    "expected_submission_date": "2018-08-28",
+    "actual_submission_date": "2017-03-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 161,
+  "fields": {
+    "series": 6,
+    "title": "Aquasseur - tutorial - Hudson",
+    "user": 4,
+    "expected_submission_date": "2019-02-01",
+    "actual_submission_date": "2017-11-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 162,
+  "fields": {
+    "series": 8,
+    "title": "Unia - tutorial - Stafford",
+    "user": 18,
+    "expected_submission_date": "2019-11-07",
+    "actual_submission_date": "2018-06-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 163,
+  "fields": {
+    "series": 3,
+    "title": "Comverges - tutorial - Alison",
+    "user": 8,
+    "expected_submission_date": "2019-10-10",
+    "actual_submission_date": "2018-09-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 164,
+  "fields": {
+    "series": 2,
+    "title": "Zenco - tutorial - Stark",
+    "user": 38,
+    "expected_submission_date": "2019-03-08",
+    "actual_submission_date": "2019-08-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 165,
+  "fields": {
+    "series": 9,
+    "title": "Terragen - tutorial - Cline",
+    "user": 23,
+    "expected_submission_date": "2018-06-04",
+    "actual_submission_date": "2019-03-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 166,
+  "fields": {
+    "series": 8,
+    "title": "Wazzu - tutorial - Katie",
+    "user": 18,
+    "expected_submission_date": "2018-01-30",
+    "actual_submission_date": "2018-12-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 167,
+  "fields": {
+    "series": 4,
+    "title": "Orbalix - tutorial - Leanna",
+    "user": 43,
+    "expected_submission_date": "2018-05-21",
+    "actual_submission_date": "2017-09-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 168,
+  "fields": {
+    "series": 1,
+    "title": "Velity - tutorial - Tara",
+    "user": 9,
+    "expected_submission_date": "2017-05-17",
+    "actual_submission_date": "2017-07-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 169,
+  "fields": {
+    "series": 9,
+    "title": "Xelegyl - tutorial - Bauer",
+    "user": 18,
+    "expected_submission_date": "2019-11-04",
+    "actual_submission_date": "2017-09-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 170,
+  "fields": {
+    "series": 3,
+    "title": "Telpod - tutorial - Marguerite",
+    "user": 38,
+    "expected_submission_date": "2017-07-10",
+    "actual_submission_date": "2019-11-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 171,
+  "fields": {
+    "series": 6,
+    "title": "Quadeebo - tutorial - Kendra",
+    "user": 11,
+    "expected_submission_date": "2019-06-22",
+    "actual_submission_date": "2017-06-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 172,
+  "fields": {
+    "series": 4,
+    "title": "Accufarm - tutorial - Daniels",
+    "user": 8,
+    "expected_submission_date": "2019-07-11",
+    "actual_submission_date": "2017-08-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 173,
+  "fields": {
+    "series": 5,
+    "title": "Zaggles - tutorial - Joseph",
+    "user": 32,
+    "expected_submission_date": "2017-01-29",
+    "actual_submission_date": "2017-09-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 174,
+  "fields": {
+    "series": 3,
+    "title": "Quizmo - tutorial - Rogers",
+    "user": 1,
+    "expected_submission_date": "2017-06-29",
+    "actual_submission_date": "2019-01-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 175,
+  "fields": {
+    "series": 4,
+    "title": "Motovate - tutorial - Jamie",
+    "user": 41,
+    "expected_submission_date": "2018-05-19",
+    "actual_submission_date": "2017-11-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 176,
+  "fields": {
+    "series": 8,
+    "title": "Centregy - tutorial - Figueroa",
+    "user": 6,
+    "expected_submission_date": "2018-11-19",
+    "actual_submission_date": "2017-07-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 177,
+  "fields": {
+    "series": 1,
+    "title": "Zaggle - tutorial - Scott",
+    "user": 35,
+    "expected_submission_date": "2019-05-06",
+    "actual_submission_date": "2019-09-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 178,
+  "fields": {
+    "series": 1,
+    "title": "Qiao - tutorial - Norma",
+    "user": 43,
+    "expected_submission_date": "2017-08-26",
+    "actual_submission_date": "2018-05-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 179,
+  "fields": {
+    "series": 3,
+    "title": "Eventage - tutorial - Mcconnell",
+    "user": 21,
+    "expected_submission_date": "2017-08-02",
+    "actual_submission_date": "2017-12-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 180,
+  "fields": {
+    "series": 2,
+    "title": "Exotechno - tutorial - Mcintyre",
+    "user": 39,
+    "expected_submission_date": "2019-08-02",
+    "actual_submission_date": "2019-06-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 181,
+  "fields": {
+    "series": 9,
+    "title": "Dancerity - tutorial - Macdonald",
+    "user": 48,
+    "expected_submission_date": "2017-10-15",
+    "actual_submission_date": "2018-03-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 182,
+  "fields": {
+    "series": 5,
+    "title": "Concility - tutorial - Webb",
+    "user": 7,
+    "expected_submission_date": "2017-09-23",
+    "actual_submission_date": "2017-05-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 183,
+  "fields": {
+    "series": 4,
+    "title": "Neteria - tutorial - Candy",
+    "user": 40,
+    "expected_submission_date": "2019-05-23",
+    "actual_submission_date": "2019-07-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 184,
+  "fields": {
+    "series": 6,
+    "title": "Ramjob - tutorial - Moran",
+    "user": 2,
+    "expected_submission_date": "2017-02-21",
+    "actual_submission_date": "2019-11-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 185,
+  "fields": {
+    "series": 5,
+    "title": "Mixers - tutorial - Foster",
+    "user": 21,
+    "expected_submission_date": "2019-11-20",
+    "actual_submission_date": "2019-02-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 186,
+  "fields": {
+    "series": 7,
+    "title": "Eweville - tutorial - Williams",
+    "user": 25,
+    "expected_submission_date": "2019-05-03",
+    "actual_submission_date": "2018-10-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 187,
+  "fields": {
+    "series": 9,
+    "title": "Orbaxter - tutorial - Noelle",
+    "user": 11,
+    "expected_submission_date": "2019-11-19",
+    "actual_submission_date": "2019-12-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 188,
+  "fields": {
+    "series": 2,
+    "title": "Boilcat - tutorial - Leanne",
+    "user": 30,
+    "expected_submission_date": "2017-05-27",
+    "actual_submission_date": "2018-03-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 189,
+  "fields": {
+    "series": 7,
+    "title": "Opticall - tutorial - Hartman",
+    "user": 23,
+    "expected_submission_date": "2019-08-27",
+    "actual_submission_date": "2018-11-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 190,
+  "fields": {
+    "series": 8,
+    "title": "Xyqag - tutorial - Juarez",
+    "user": 4,
+    "expected_submission_date": "2017-03-25",
+    "actual_submission_date": "2019-07-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 191,
+  "fields": {
+    "series": 1,
+    "title": "Marqet - tutorial - Henry",
+    "user": 11,
+    "expected_submission_date": "2018-11-01",
+    "actual_submission_date": "2018-09-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 192,
+  "fields": {
+    "series": 6,
+    "title": "Earbang - tutorial - Richard",
+    "user": 40,
+    "expected_submission_date": "2019-10-08",
+    "actual_submission_date": "2017-01-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 193,
+  "fields": {
+    "series": 7,
+    "title": "Musanpoly - tutorial - Lidia",
+    "user": 33,
+    "expected_submission_date": "2017-05-22",
+    "actual_submission_date": "2019-08-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 194,
+  "fields": {
+    "series": 1,
+    "title": "Myopium - tutorial - Bush",
+    "user": 19,
+    "expected_submission_date": "2018-04-27",
+    "actual_submission_date": "2017-09-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 195,
+  "fields": {
+    "series": 9,
+    "title": "Locazone - tutorial - Bridgett",
+    "user": 15,
+    "expected_submission_date": "2017-11-12",
+    "actual_submission_date": "2020-01-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 196,
+  "fields": {
+    "series": 5,
+    "title": "Waretel - tutorial - Goodwin",
+    "user": 17,
+    "expected_submission_date": "2017-09-20",
+    "actual_submission_date": "2017-07-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 197,
+  "fields": {
+    "series": 4,
+    "title": "Pasturia - tutorial - Letha",
+    "user": 20,
+    "expected_submission_date": "2019-12-10",
+    "actual_submission_date": "2017-04-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 198,
+  "fields": {
+    "series": 7,
+    "title": "Cubix - tutorial - Eliza",
+    "user": 6,
+    "expected_submission_date": "2017-08-02",
+    "actual_submission_date": "2017-03-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 199,
+  "fields": {
+    "series": 3,
+    "title": "Prismatic - tutorial - Clay",
+    "user": 34,
+    "expected_submission_date": "2019-10-28",
+    "actual_submission_date": "2018-07-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 200,
+  "fields": {
+    "series": 3,
+    "title": "Brainclip - tutorial - Blackburn",
+    "user": 20,
+    "expected_submission_date": "2017-10-06",
+    "actual_submission_date": "2018-05-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 201,
+  "fields": {
+    "series": 4,
+    "title": "Anacho - tutorial - Abby",
+    "user": 27,
+    "expected_submission_date": "2018-09-19",
+    "actual_submission_date": "2018-10-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 202,
+  "fields": {
+    "series": 7,
+    "title": "Cinesanct - tutorial - Sheree",
+    "user": 7,
+    "expected_submission_date": "2018-03-25",
+    "actual_submission_date": "2018-04-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 203,
+  "fields": {
+    "series": 3,
+    "title": "Permadyne - tutorial - Glass",
+    "user": 11,
+    "expected_submission_date": "2018-07-31",
+    "actual_submission_date": "2018-09-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 204,
+  "fields": {
+    "series": 4,
+    "title": "Mitroc - tutorial - Alice",
+    "user": 30,
+    "expected_submission_date": "2020-01-12",
+    "actual_submission_date": "2017-10-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 205,
+  "fields": {
+    "series": 8,
+    "title": "Geoform - tutorial - Owens",
+    "user": 14,
+    "expected_submission_date": "2018-03-22",
+    "actual_submission_date": "2019-05-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 206,
+  "fields": {
+    "series": 1,
+    "title": "Bugsall - tutorial - Helene",
+    "user": 34,
+    "expected_submission_date": "2018-11-30",
+    "actual_submission_date": "2017-08-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 207,
+  "fields": {
+    "series": 2,
+    "title": "Zilch - tutorial - Avila",
+    "user": 11,
+    "expected_submission_date": "2019-05-28",
+    "actual_submission_date": "2017-07-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 208,
+  "fields": {
+    "series": 3,
+    "title": "Genmy - tutorial - Jordan",
+    "user": 20,
+    "expected_submission_date": "2019-03-04",
+    "actual_submission_date": "2017-08-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 209,
+  "fields": {
+    "series": 6,
+    "title": "Envire - tutorial - Cathleen",
+    "user": 26,
+    "expected_submission_date": "2018-12-15",
+    "actual_submission_date": "2017-05-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 210,
+  "fields": {
+    "series": 3,
+    "title": "Kiggle - tutorial - Dillard",
+    "user": 2,
+    "expected_submission_date": "2019-06-25",
+    "actual_submission_date": "2018-01-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 211,
+  "fields": {
+    "series": 9,
+    "title": "Essensia - tutorial - Ericka",
+    "user": 42,
+    "expected_submission_date": "2018-05-24",
+    "actual_submission_date": "2019-02-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 212,
+  "fields": {
+    "series": 2,
+    "title": "Velos - tutorial - Watson",
+    "user": 47,
+    "expected_submission_date": "2017-01-01",
+    "actual_submission_date": "2017-04-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 213,
+  "fields": {
+    "series": 6,
+    "title": "Comvey - tutorial - Angeline",
+    "user": 32,
+    "expected_submission_date": "2018-07-09",
+    "actual_submission_date": "2019-08-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 214,
+  "fields": {
+    "series": 4,
+    "title": "Furnafix - tutorial - Stefanie",
+    "user": 44,
+    "expected_submission_date": "2018-05-21",
+    "actual_submission_date": "2018-05-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 215,
+  "fields": {
+    "series": 8,
+    "title": "Extremo - tutorial - Vicky",
+    "user": 11,
+    "expected_submission_date": "2017-01-23",
+    "actual_submission_date": "2018-10-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 216,
+  "fields": {
+    "series": 3,
+    "title": "Flexigen - tutorial - Sharpe",
+    "user": 44,
+    "expected_submission_date": "2018-03-30",
+    "actual_submission_date": "2018-08-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 217,
+  "fields": {
+    "series": 7,
+    "title": "Capscreen - tutorial - Burris",
+    "user": 6,
+    "expected_submission_date": "2018-04-19",
+    "actual_submission_date": "2018-09-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 218,
+  "fields": {
+    "series": 7,
+    "title": "Norali - tutorial - Clarissa",
+    "user": 5,
+    "expected_submission_date": "2019-12-23",
+    "actual_submission_date": "2017-07-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 219,
+  "fields": {
+    "series": 6,
+    "title": "Keeg - tutorial - Vaughn",
+    "user": 6,
+    "expected_submission_date": "2020-01-28",
+    "actual_submission_date": "2019-11-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 220,
+  "fields": {
+    "series": 4,
+    "title": "Portaline - tutorial - Gomez",
+    "user": 26,
+    "expected_submission_date": "2018-04-25",
+    "actual_submission_date": "2019-10-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 221,
+  "fields": {
+    "series": 7,
+    "title": "Atgen - tutorial - Sparks",
+    "user": 30,
+    "expected_submission_date": "2018-11-08",
+    "actual_submission_date": "2018-07-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 222,
+  "fields": {
+    "series": 5,
+    "title": "Furnigeer - tutorial - Mallory",
+    "user": 50,
+    "expected_submission_date": "2018-12-05",
+    "actual_submission_date": "2019-09-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 223,
+  "fields": {
+    "series": 8,
+    "title": "Dyno - tutorial - Rivas",
+    "user": 35,
+    "expected_submission_date": "2019-04-12",
+    "actual_submission_date": "2019-09-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 224,
+  "fields": {
+    "series": 6,
+    "title": "Zepitope - tutorial - Guerrero",
+    "user": 4,
+    "expected_submission_date": "2017-03-16",
+    "actual_submission_date": "2018-06-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 225,
+  "fields": {
+    "series": 5,
+    "title": "Acrodance - tutorial - Mercedes",
+    "user": 31,
+    "expected_submission_date": "2018-01-24",
+    "actual_submission_date": "2018-02-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 226,
+  "fields": {
+    "series": 9,
+    "title": "Applidec - tutorial - Kaufman",
+    "user": 43,
+    "expected_submission_date": "2019-02-01",
+    "actual_submission_date": "2019-09-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 227,
+  "fields": {
+    "series": 7,
+    "title": "Zogak - tutorial - Cassandra",
+    "user": 31,
+    "expected_submission_date": "2017-10-06",
+    "actual_submission_date": "2018-06-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 228,
+  "fields": {
+    "series": 1,
+    "title": "Artiq - tutorial - Angel",
+    "user": 22,
+    "expected_submission_date": "2018-06-26",
+    "actual_submission_date": "2018-11-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 229,
+  "fields": {
+    "series": 3,
+    "title": "Comvex - tutorial - Brooks",
+    "user": 21,
+    "expected_submission_date": "2017-09-04",
+    "actual_submission_date": "2017-10-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 230,
+  "fields": {
+    "series": 6,
+    "title": "Gology - tutorial - Grant",
+    "user": 28,
+    "expected_submission_date": "2017-09-23",
+    "actual_submission_date": "2018-05-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 231,
+  "fields": {
+    "series": 1,
+    "title": "Krag - tutorial - Richmond",
+    "user": 25,
+    "expected_submission_date": "2017-09-30",
+    "actual_submission_date": "2017-06-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 232,
+  "fields": {
+    "series": 1,
+    "title": "Waterbaby - tutorial - Day",
+    "user": 19,
+    "expected_submission_date": "2019-06-05",
+    "actual_submission_date": "2018-01-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 233,
+  "fields": {
+    "series": 7,
+    "title": "Xymonk - tutorial - Lorraine",
+    "user": 47,
+    "expected_submission_date": "2017-01-09",
+    "actual_submission_date": "2018-02-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 234,
+  "fields": {
+    "series": 3,
+    "title": "Imant - tutorial - Ava",
+    "user": 34,
+    "expected_submission_date": "2019-12-19",
+    "actual_submission_date": "2019-06-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 235,
+  "fields": {
+    "series": 4,
+    "title": "Strezzo - tutorial - Kathy",
+    "user": 23,
+    "expected_submission_date": "2019-10-10",
+    "actual_submission_date": "2017-05-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 236,
+  "fields": {
+    "series": 6,
+    "title": "Cyclonica - tutorial - Nancy",
+    "user": 50,
+    "expected_submission_date": "2018-05-27",
+    "actual_submission_date": "2019-04-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 237,
+  "fields": {
+    "series": 7,
+    "title": "Xerex - tutorial - Rachael",
+    "user": 23,
+    "expected_submission_date": "2020-01-03",
+    "actual_submission_date": "2019-03-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 238,
+  "fields": {
+    "series": 9,
+    "title": "Sealoud - tutorial - Wilkinson",
+    "user": 6,
+    "expected_submission_date": "2018-07-11",
+    "actual_submission_date": "2020-01-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 239,
+  "fields": {
+    "series": 7,
+    "title": "Imaginart - tutorial - Merle",
+    "user": 7,
+    "expected_submission_date": "2017-04-13",
+    "actual_submission_date": "2018-10-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 240,
+  "fields": {
+    "series": 8,
+    "title": "Enerforce - tutorial - Maynard",
+    "user": 37,
+    "expected_submission_date": "2017-05-19",
+    "actual_submission_date": "2018-03-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 241,
+  "fields": {
+    "series": 6,
+    "title": "Comveyor - tutorial - Roach",
+    "user": 26,
+    "expected_submission_date": "2019-10-30",
+    "actual_submission_date": "2019-03-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 242,
+  "fields": {
+    "series": 4,
+    "title": "Insuron - tutorial - Contreras",
+    "user": 26,
+    "expected_submission_date": "2017-02-28",
+    "actual_submission_date": "2017-08-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 243,
+  "fields": {
+    "series": 6,
+    "title": "Skyplex - tutorial - Minerva",
+    "user": 25,
+    "expected_submission_date": "2017-06-02",
+    "actual_submission_date": "2017-04-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 244,
+  "fields": {
+    "series": 9,
+    "title": "Conferia - tutorial - Barry",
+    "user": 35,
+    "expected_submission_date": "2018-12-12",
+    "actual_submission_date": "2017-12-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 245,
+  "fields": {
+    "series": 5,
+    "title": "Opticom - tutorial - Hurley",
+    "user": 34,
+    "expected_submission_date": "2019-12-13",
+    "actual_submission_date": "2017-10-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 246,
+  "fields": {
+    "series": 7,
+    "title": "Medcom - tutorial - Sandra",
+    "user": 15,
+    "expected_submission_date": "2017-06-04",
+    "actual_submission_date": "2018-07-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 247,
+  "fields": {
+    "series": 8,
+    "title": "Kinetica - tutorial - Sweeney",
+    "user": 3,
+    "expected_submission_date": "2018-03-09",
+    "actual_submission_date": "2020-01-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 248,
+  "fields": {
+    "series": 1,
+    "title": "Plasmosis - tutorial - Frieda",
+    "user": 47,
+    "expected_submission_date": "2017-11-20",
+    "actual_submission_date": "2019-07-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 249,
+  "fields": {
+    "series": 5,
+    "title": "Newcube - tutorial - Melisa",
+    "user": 22,
+    "expected_submission_date": "2019-03-10",
+    "actual_submission_date": "2019-12-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 250,
+  "fields": {
+    "series": 5,
+    "title": "Rooforia - tutorial - Beulah",
+    "user": 27,
+    "expected_submission_date": "2018-08-05",
+    "actual_submission_date": "2018-02-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 251,
+  "fields": {
+    "series": 6,
+    "title": "Talkola - tutorial - Alisha",
+    "user": 17,
+    "expected_submission_date": "2018-07-06",
+    "actual_submission_date": "2019-08-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 252,
+  "fields": {
+    "series": 2,
+    "title": "Enjola - tutorial - Brittney",
+    "user": 49,
+    "expected_submission_date": "2017-08-10",
+    "actual_submission_date": "2019-06-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 253,
+  "fields": {
+    "series": 6,
+    "title": "Artworlds - tutorial - Clarke",
+    "user": 33,
+    "expected_submission_date": "2018-12-24",
+    "actual_submission_date": "2019-04-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 254,
+  "fields": {
+    "series": 7,
+    "title": "Uxmox - tutorial - Aurelia",
+    "user": 39,
+    "expected_submission_date": "2017-09-21",
+    "actual_submission_date": "2020-01-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 255,
+  "fields": {
+    "series": 4,
+    "title": "Farmage - tutorial - Morales",
+    "user": 2,
+    "expected_submission_date": "2018-02-13",
+    "actual_submission_date": "2018-09-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 256,
+  "fields": {
+    "series": 5,
+    "title": "Cemention - tutorial - Kenya",
+    "user": 31,
+    "expected_submission_date": "2017-12-21",
+    "actual_submission_date": "2019-01-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 257,
+  "fields": {
+    "series": 1,
+    "title": "Balooba - tutorial - Browning",
+    "user": 29,
+    "expected_submission_date": "2018-04-29",
+    "actual_submission_date": "2019-11-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 258,
+  "fields": {
+    "series": 9,
+    "title": "Isodrive - tutorial - Esther",
+    "user": 36,
+    "expected_submission_date": "2020-01-02",
+    "actual_submission_date": "2018-08-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 259,
+  "fields": {
+    "series": 2,
+    "title": "Zilphur - tutorial - Matthews",
+    "user": 21,
+    "expected_submission_date": "2018-01-07",
+    "actual_submission_date": "2020-01-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 260,
+  "fields": {
+    "series": 8,
+    "title": "Bisba - tutorial - Byers",
+    "user": 6,
+    "expected_submission_date": "2017-04-13",
+    "actual_submission_date": "2017-02-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 261,
+  "fields": {
+    "series": 5,
+    "title": "Poshome - tutorial - Blair",
+    "user": 4,
+    "expected_submission_date": "2018-07-30",
+    "actual_submission_date": "2018-11-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 262,
+  "fields": {
+    "series": 9,
+    "title": "Primordia - tutorial - Vance",
+    "user": 24,
+    "expected_submission_date": "2018-11-20",
+    "actual_submission_date": "2017-11-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 263,
+  "fields": {
+    "series": 6,
+    "title": "Plasmox - tutorial - Jocelyn",
+    "user": 16,
+    "expected_submission_date": "2017-08-27",
+    "actual_submission_date": "2017-02-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 264,
+  "fields": {
+    "series": 4,
+    "title": "Slofast - tutorial - Winifred",
+    "user": 12,
+    "expected_submission_date": "2017-05-13",
+    "actual_submission_date": "2017-08-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 265,
+  "fields": {
+    "series": 5,
+    "title": "Zytrac - tutorial - Orr",
+    "user": 50,
+    "expected_submission_date": "2018-02-24",
+    "actual_submission_date": "2018-08-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 266,
+  "fields": {
+    "series": 1,
+    "title": "Eventix - tutorial - Ball",
+    "user": 28,
+    "expected_submission_date": "2019-04-13",
+    "actual_submission_date": "2019-07-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 267,
+  "fields": {
+    "series": 1,
+    "title": "Stockpost - tutorial - Woodward",
+    "user": 22,
+    "expected_submission_date": "2018-12-02",
+    "actual_submission_date": "2018-06-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 268,
+  "fields": {
+    "series": 8,
+    "title": "Minga - tutorial - Mabel",
+    "user": 5,
+    "expected_submission_date": "2017-01-14",
+    "actual_submission_date": "2017-03-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 269,
+  "fields": {
+    "series": 3,
+    "title": "Furnitech - tutorial - Randall",
+    "user": 9,
+    "expected_submission_date": "2017-09-23",
+    "actual_submission_date": "2020-01-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 270,
+  "fields": {
+    "series": 4,
+    "title": "Billmed - tutorial - Beryl",
+    "user": 36,
+    "expected_submission_date": "2017-09-24",
+    "actual_submission_date": "2018-05-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 271,
+  "fields": {
+    "series": 8,
+    "title": "Jimbies - tutorial - Shepard",
+    "user": 41,
+    "expected_submission_date": "2017-04-29",
+    "actual_submission_date": "2018-01-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 272,
+  "fields": {
+    "series": 5,
+    "title": "Isosure - tutorial - Hood",
+    "user": 12,
+    "expected_submission_date": "2017-05-07",
+    "actual_submission_date": "2018-09-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 273,
+  "fields": {
+    "series": 1,
+    "title": "Magnina - tutorial - Kaye",
+    "user": 14,
+    "expected_submission_date": "2019-05-09",
+    "actual_submission_date": "2019-11-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 274,
+  "fields": {
+    "series": 3,
+    "title": "Typhonica - tutorial - Olsen",
+    "user": 32,
+    "expected_submission_date": "2018-06-23",
+    "actual_submission_date": "2019-04-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 275,
+  "fields": {
+    "series": 2,
+    "title": "Zedalis - tutorial - Valentine",
+    "user": 19,
+    "expected_submission_date": "2018-03-16",
+    "actual_submission_date": "2019-07-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 276,
+  "fields": {
+    "series": 5,
+    "title": "Flyboyz - tutorial - Abigail",
+    "user": 33,
+    "expected_submission_date": "2018-10-16",
+    "actual_submission_date": "2017-04-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 277,
+  "fields": {
+    "series": 2,
+    "title": "Harmoney - tutorial - Morin",
+    "user": 48,
+    "expected_submission_date": "2019-12-06",
+    "actual_submission_date": "2019-10-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 278,
+  "fields": {
+    "series": 9,
+    "title": "Optyk - tutorial - Sonja",
+    "user": 9,
+    "expected_submission_date": "2018-04-14",
+    "actual_submission_date": "2017-07-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 279,
+  "fields": {
+    "series": 1,
+    "title": "Isoswitch - tutorial - Trudy",
+    "user": 35,
+    "expected_submission_date": "2018-08-04",
+    "actual_submission_date": "2018-05-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 280,
+  "fields": {
+    "series": 3,
+    "title": "Ginkle - tutorial - Darcy",
+    "user": 45,
+    "expected_submission_date": "2017-05-28",
+    "actual_submission_date": "2018-06-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 281,
+  "fields": {
+    "series": 2,
+    "title": "Eclipto - tutorial - Lou",
+    "user": 44,
+    "expected_submission_date": "2019-01-08",
+    "actual_submission_date": "2017-05-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 282,
+  "fields": {
+    "series": 4,
+    "title": "Enersave - tutorial - Battle",
+    "user": 36,
+    "expected_submission_date": "2019-02-12",
+    "actual_submission_date": "2017-10-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 283,
+  "fields": {
+    "series": 7,
+    "title": "Vidto - tutorial - Beck",
+    "user": 43,
+    "expected_submission_date": "2017-08-24",
+    "actual_submission_date": "2017-10-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 284,
+  "fields": {
+    "series": 1,
+    "title": "Bleendot - tutorial - Alexandra",
+    "user": 13,
+    "expected_submission_date": "2019-10-07",
+    "actual_submission_date": "2019-01-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 285,
+  "fields": {
+    "series": 3,
+    "title": "Comtours - tutorial - Dina",
+    "user": 1,
+    "expected_submission_date": "2019-05-20",
+    "actual_submission_date": "2019-10-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 286,
+  "fields": {
+    "series": 6,
+    "title": "Talae - tutorial - Rosalyn",
+    "user": 26,
+    "expected_submission_date": "2017-10-11",
+    "actual_submission_date": "2017-04-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 287,
+  "fields": {
+    "series": 9,
+    "title": "Fiberox - tutorial - Alford",
+    "user": 36,
+    "expected_submission_date": "2018-05-02",
+    "actual_submission_date": "2018-06-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 288,
+  "fields": {
+    "series": 4,
+    "title": "Comtrak - tutorial - Evangeline",
+    "user": 33,
+    "expected_submission_date": "2019-03-01",
+    "actual_submission_date": "2019-06-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 289,
+  "fields": {
+    "series": 4,
+    "title": "Rugstars - tutorial - Thompson",
+    "user": 22,
+    "expected_submission_date": "2017-08-02",
+    "actual_submission_date": "2019-06-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 290,
+  "fields": {
+    "series": 7,
+    "title": "Peticular - tutorial - Patti",
+    "user": 44,
+    "expected_submission_date": "2019-05-19",
+    "actual_submission_date": "2018-08-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 291,
+  "fields": {
+    "series": 5,
+    "title": "Namegen - tutorial - Rosella",
+    "user": 16,
+    "expected_submission_date": "2018-07-26",
+    "actual_submission_date": "2019-07-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 292,
+  "fields": {
+    "series": 5,
+    "title": "Nexgene - tutorial - Geraldine",
+    "user": 15,
+    "expected_submission_date": "2019-01-17",
+    "actual_submission_date": "2019-05-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 293,
+  "fields": {
+    "series": 5,
+    "title": "Olympix - tutorial - Gracie",
+    "user": 26,
+    "expected_submission_date": "2019-05-28",
+    "actual_submission_date": "2017-06-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 294,
+  "fields": {
+    "series": 9,
+    "title": "Marvane - tutorial - Lucas",
+    "user": 13,
+    "expected_submission_date": "2019-12-30",
+    "actual_submission_date": "2018-10-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 295,
+  "fields": {
+    "series": 8,
+    "title": "Tourmania - tutorial - Waters",
+    "user": 12,
+    "expected_submission_date": "2020-01-02",
+    "actual_submission_date": "2019-09-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 296,
+  "fields": {
+    "series": 2,
+    "title": "Evidends - tutorial - Phelps",
+    "user": 17,
+    "expected_submission_date": "2019-01-27",
+    "actual_submission_date": "2019-08-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 297,
+  "fields": {
+    "series": 6,
+    "title": "Quilch - tutorial - Saundra",
+    "user": 29,
+    "expected_submission_date": "2018-12-21",
+    "actual_submission_date": "2017-06-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 298,
+  "fields": {
+    "series": 4,
+    "title": "Talendula - tutorial - Dalton",
+    "user": 14,
+    "expected_submission_date": "2019-10-26",
+    "actual_submission_date": "2018-01-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 299,
+  "fields": {
+    "series": 1,
+    "title": "Pathways - tutorial - Turner",
+    "user": 42,
+    "expected_submission_date": "2017-08-19",
+    "actual_submission_date": "2017-02-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 300,
+  "fields": {
+    "series": 4,
+    "title": "Zboo - tutorial - Sandoval",
+    "user": 50,
+    "expected_submission_date": "2018-06-30",
+    "actual_submission_date": "2018-12-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 301,
+  "fields": {
+    "series": 9,
+    "title": "Ovolo - tutorial - Petersen",
+    "user": 4,
+    "expected_submission_date": "2017-04-20",
+    "actual_submission_date": "2017-03-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 302,
+  "fields": {
+    "series": 9,
+    "title": "Colaire - tutorial - Lucy",
+    "user": 11,
+    "expected_submission_date": "2018-08-22",
+    "actual_submission_date": "2018-07-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 303,
+  "fields": {
+    "series": 1,
+    "title": "Zorromop - tutorial - Darla",
+    "user": 12,
+    "expected_submission_date": "2019-12-22",
+    "actual_submission_date": "2019-08-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 304,
+  "fields": {
+    "series": 2,
+    "title": "Zolavo - tutorial - Adams",
+    "user": 6,
+    "expected_submission_date": "2018-12-23",
+    "actual_submission_date": "2017-02-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 305,
+  "fields": {
+    "series": 9,
+    "title": "Pigzart - tutorial - Munoz",
+    "user": 34,
+    "expected_submission_date": "2018-11-03",
+    "actual_submission_date": "2019-08-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 306,
+  "fields": {
+    "series": 5,
+    "title": "Vortexaco - tutorial - Nelda",
+    "user": 49,
+    "expected_submission_date": "2019-02-28",
+    "actual_submission_date": "2017-10-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 307,
+  "fields": {
+    "series": 3,
+    "title": "Ontagene - tutorial - Roberson",
+    "user": 17,
+    "expected_submission_date": "2019-02-24",
+    "actual_submission_date": "2019-07-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 308,
+  "fields": {
+    "series": 8,
+    "title": "Extragen - tutorial - Tami",
+    "user": 33,
+    "expected_submission_date": "2019-02-07",
+    "actual_submission_date": "2017-12-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 309,
+  "fields": {
+    "series": 7,
+    "title": "Powernet - tutorial - Pace",
+    "user": 50,
+    "expected_submission_date": "2017-05-30",
+    "actual_submission_date": "2017-03-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 310,
+  "fields": {
+    "series": 4,
+    "title": "Icology - tutorial - Aline",
+    "user": 7,
+    "expected_submission_date": "2019-04-21",
+    "actual_submission_date": "2018-07-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 311,
+  "fields": {
+    "series": 6,
+    "title": "Renovize - tutorial - Porter",
+    "user": 30,
+    "expected_submission_date": "2017-03-14",
+    "actual_submission_date": "2017-12-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 312,
+  "fields": {
+    "series": 6,
+    "title": "Illumity - tutorial - Joan",
+    "user": 11,
+    "expected_submission_date": "2018-04-27",
+    "actual_submission_date": "2017-02-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 313,
+  "fields": {
+    "series": 8,
+    "title": "Darwinium - tutorial - Lee",
+    "user": 17,
+    "expected_submission_date": "2017-07-16",
+    "actual_submission_date": "2017-09-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 314,
+  "fields": {
+    "series": 1,
+    "title": "Bezal - tutorial - Ashley",
+    "user": 13,
+    "expected_submission_date": "2018-05-18",
+    "actual_submission_date": "2018-01-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 315,
+  "fields": {
+    "series": 4,
+    "title": "Zyple - tutorial - Guy",
+    "user": 12,
+    "expected_submission_date": "2018-09-14",
+    "actual_submission_date": "2018-04-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 316,
+  "fields": {
+    "series": 6,
+    "title": "Exostream - tutorial - Irene",
+    "user": 36,
+    "expected_submission_date": "2017-08-17",
+    "actual_submission_date": "2017-01-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 317,
+  "fields": {
+    "series": 8,
+    "title": "Geekmosis - tutorial - Donaldson",
+    "user": 24,
+    "expected_submission_date": "2020-01-11",
+    "actual_submission_date": "2018-04-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 318,
+  "fields": {
+    "series": 3,
+    "title": "Frenex - tutorial - Hope",
+    "user": 48,
+    "expected_submission_date": "2019-07-11",
+    "actual_submission_date": "2020-01-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 319,
+  "fields": {
+    "series": 9,
+    "title": "Soprano - tutorial - Ortiz",
+    "user": 23,
+    "expected_submission_date": "2017-08-10",
+    "actual_submission_date": "2018-03-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 320,
+  "fields": {
+    "series": 2,
+    "title": "Kneedles - tutorial - Liza",
+    "user": 6,
+    "expected_submission_date": "2017-07-09",
+    "actual_submission_date": "2018-09-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 321,
+  "fields": {
+    "series": 8,
+    "title": "Martgo - tutorial - Webster",
+    "user": 7,
+    "expected_submission_date": "2017-06-27",
+    "actual_submission_date": "2018-02-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 322,
+  "fields": {
+    "series": 9,
+    "title": "Medifax - tutorial - Jimenez",
+    "user": 21,
+    "expected_submission_date": "2018-07-23",
+    "actual_submission_date": "2019-01-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 323,
+  "fields": {
+    "series": 4,
+    "title": "Sybixtex - tutorial - Stout",
+    "user": 13,
+    "expected_submission_date": "2018-07-19",
+    "actual_submission_date": "2017-06-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 324,
+  "fields": {
+    "series": 2,
+    "title": "Tubesys - tutorial - Stein",
+    "user": 39,
+    "expected_submission_date": "2018-02-24",
+    "actual_submission_date": "2017-09-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 325,
+  "fields": {
+    "series": 3,
+    "title": "Terrago - tutorial - Joanna",
+    "user": 7,
+    "expected_submission_date": "2019-09-06",
+    "actual_submission_date": "2018-11-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 326,
+  "fields": {
+    "series": 9,
+    "title": "Megall - tutorial - Barrera",
+    "user": 13,
+    "expected_submission_date": "2017-05-17",
+    "actual_submission_date": "2020-01-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 327,
+  "fields": {
+    "series": 6,
+    "title": "Teraprene - tutorial - Salinas",
+    "user": 5,
+    "expected_submission_date": "2017-12-10",
+    "actual_submission_date": "2017-01-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 328,
+  "fields": {
+    "series": 7,
+    "title": "Luxuria - tutorial - Shelia",
+    "user": 5,
+    "expected_submission_date": "2017-06-15",
+    "actual_submission_date": "2017-01-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 329,
+  "fields": {
+    "series": 7,
+    "title": "Cosmetex - tutorial - Margery",
+    "user": 46,
+    "expected_submission_date": "2017-11-26",
+    "actual_submission_date": "2019-02-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 330,
+  "fields": {
+    "series": 2,
+    "title": "Ziore - tutorial - Duke",
+    "user": 24,
+    "expected_submission_date": "2019-06-27",
+    "actual_submission_date": "2019-11-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 331,
+  "fields": {
+    "series": 1,
+    "title": "Earthmark - tutorial - Booker",
+    "user": 29,
+    "expected_submission_date": "2017-10-10",
+    "actual_submission_date": "2017-05-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 332,
+  "fields": {
+    "series": 8,
+    "title": "Imkan - tutorial - Nettie",
+    "user": 50,
+    "expected_submission_date": "2017-11-12",
+    "actual_submission_date": "2019-07-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 333,
+  "fields": {
+    "series": 6,
+    "title": "Housedown - tutorial - Ramona",
+    "user": 7,
+    "expected_submission_date": "2019-02-12",
+    "actual_submission_date": "2019-04-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 334,
+  "fields": {
+    "series": 1,
+    "title": "Premiant - tutorial - Fran",
+    "user": 24,
+    "expected_submission_date": "2017-05-22",
+    "actual_submission_date": "2019-06-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 335,
+  "fields": {
+    "series": 9,
+    "title": "Zilodyne - tutorial - Farrell",
+    "user": 14,
+    "expected_submission_date": "2018-12-22",
+    "actual_submission_date": "2018-03-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 336,
+  "fields": {
+    "series": 1,
+    "title": "Radiantix - tutorial - Kara",
+    "user": 5,
+    "expected_submission_date": "2018-10-18",
+    "actual_submission_date": "2017-09-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 337,
+  "fields": {
+    "series": 4,
+    "title": "Geekko - tutorial - Alyssa",
+    "user": 21,
+    "expected_submission_date": "2018-10-31",
+    "actual_submission_date": "2017-06-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 338,
+  "fields": {
+    "series": 5,
+    "title": "Yogasm - tutorial - Moss",
+    "user": 17,
+    "expected_submission_date": "2017-12-26",
+    "actual_submission_date": "2019-03-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 339,
+  "fields": {
+    "series": 9,
+    "title": "Farmex - tutorial - Wade",
+    "user": 35,
+    "expected_submission_date": "2018-01-22",
+    "actual_submission_date": "2017-10-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 340,
+  "fields": {
+    "series": 6,
+    "title": "Indexia - tutorial - Sellers",
+    "user": 17,
+    "expected_submission_date": "2020-01-30",
+    "actual_submission_date": "2017-10-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 341,
+  "fields": {
+    "series": 5,
+    "title": "Zentix - tutorial - Britney",
+    "user": 28,
+    "expected_submission_date": "2018-04-25",
+    "actual_submission_date": "2017-11-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 342,
+  "fields": {
+    "series": 3,
+    "title": "Iplax - tutorial - Suzette",
+    "user": 31,
+    "expected_submission_date": "2018-07-23",
+    "actual_submission_date": "2019-01-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 343,
+  "fields": {
+    "series": 8,
+    "title": "Comcur - tutorial - Prince",
+    "user": 30,
+    "expected_submission_date": "2019-10-19",
+    "actual_submission_date": "2018-06-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 344,
+  "fields": {
+    "series": 2,
+    "title": "Diginetic - tutorial - Hays",
+    "user": 19,
+    "expected_submission_date": "2017-03-10",
+    "actual_submission_date": "2017-08-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 345,
+  "fields": {
+    "series": 1,
+    "title": "Idego - tutorial - Haynes",
+    "user": 6,
+    "expected_submission_date": "2017-02-28",
+    "actual_submission_date": "2017-04-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 346,
+  "fields": {
+    "series": 5,
+    "title": "Barkarama - tutorial - Atkinson",
+    "user": 31,
+    "expected_submission_date": "2018-04-07",
+    "actual_submission_date": "2019-12-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 347,
+  "fields": {
+    "series": 2,
+    "title": "Thredz - tutorial - Young",
+    "user": 28,
+    "expected_submission_date": "2018-09-28",
+    "actual_submission_date": "2017-06-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 348,
+  "fields": {
+    "series": 8,
+    "title": "Insectus - tutorial - Singleton",
+    "user": 33,
+    "expected_submission_date": "2017-02-03",
+    "actual_submission_date": "2017-03-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 349,
+  "fields": {
+    "series": 3,
+    "title": "Zilencio - tutorial - Lenora",
+    "user": 45,
+    "expected_submission_date": "2017-08-19",
+    "actual_submission_date": "2019-11-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 350,
+  "fields": {
+    "series": 9,
+    "title": "Magmina - tutorial - Susie",
+    "user": 42,
+    "expected_submission_date": "2019-08-02",
+    "actual_submission_date": "2018-06-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 351,
+  "fields": {
+    "series": 6,
+    "title": "Maroptic - tutorial - Angelita",
+    "user": 48,
+    "expected_submission_date": "2018-05-18",
+    "actual_submission_date": "2020-01-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 352,
+  "fields": {
+    "series": 1,
+    "title": "Optique - tutorial - Lilly",
+    "user": 26,
+    "expected_submission_date": "2017-03-16",
+    "actual_submission_date": "2017-06-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 353,
+  "fields": {
+    "series": 8,
+    "title": "Rotodyne - tutorial - Fischer",
+    "user": 30,
+    "expected_submission_date": "2019-01-29",
+    "actual_submission_date": "2017-01-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 354,
+  "fields": {
+    "series": 4,
+    "title": "Comtent - tutorial - Diaz",
+    "user": 30,
+    "expected_submission_date": "2020-01-28",
+    "actual_submission_date": "2017-08-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 355,
+  "fields": {
+    "series": 5,
+    "title": "Aquafire - tutorial - Castro",
+    "user": 40,
+    "expected_submission_date": "2019-02-04",
+    "actual_submission_date": "2018-01-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 356,
+  "fields": {
+    "series": 7,
+    "title": "Stralum - tutorial - Montgomery",
+    "user": 28,
+    "expected_submission_date": "2017-08-13",
+    "actual_submission_date": "2017-02-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 357,
+  "fields": {
+    "series": 6,
+    "title": "Katakana - tutorial - Lakisha",
+    "user": 6,
+    "expected_submission_date": "2017-03-30",
+    "actual_submission_date": "2019-06-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 358,
+  "fields": {
+    "series": 3,
+    "title": "Enaut - tutorial - Caroline",
+    "user": 6,
+    "expected_submission_date": "2019-02-05",
+    "actual_submission_date": "2017-09-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 359,
+  "fields": {
+    "series": 6,
+    "title": "Inear - tutorial - Rita",
+    "user": 28,
+    "expected_submission_date": "2017-02-15",
+    "actual_submission_date": "2019-12-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 360,
+  "fields": {
+    "series": 1,
+    "title": "Liquidoc - tutorial - Kimberley",
+    "user": 44,
+    "expected_submission_date": "2019-11-28",
+    "actual_submission_date": "2019-05-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 361,
+  "fields": {
+    "series": 5,
+    "title": "Duflex - tutorial - Lea",
+    "user": 19,
+    "expected_submission_date": "2018-04-04",
+    "actual_submission_date": "2019-08-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 362,
+  "fields": {
+    "series": 7,
+    "title": "Glasstep - tutorial - Kristy",
+    "user": 50,
+    "expected_submission_date": "2018-10-15",
+    "actual_submission_date": "2017-04-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 363,
+  "fields": {
+    "series": 2,
+    "title": "Oulu - tutorial - Yang",
+    "user": 43,
+    "expected_submission_date": "2017-02-10",
+    "actual_submission_date": "2019-02-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 364,
+  "fields": {
+    "series": 8,
+    "title": "Phuel - tutorial - Stuart",
+    "user": 34,
+    "expected_submission_date": "2018-09-17",
+    "actual_submission_date": "2018-09-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 365,
+  "fields": {
+    "series": 8,
+    "title": "Accusage - tutorial - Lacy",
+    "user": 3,
+    "expected_submission_date": "2017-06-15",
+    "actual_submission_date": "2019-01-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 366,
+  "fields": {
+    "series": 4,
+    "title": "Sensate - tutorial - Jeannette",
+    "user": 32,
+    "expected_submission_date": "2017-04-15",
+    "actual_submission_date": "2018-01-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 367,
+  "fields": {
+    "series": 6,
+    "title": "Equicom - tutorial - Karyn",
+    "user": 37,
+    "expected_submission_date": "2017-05-29",
+    "actual_submission_date": "2018-04-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 368,
+  "fields": {
+    "series": 6,
+    "title": "Krog - tutorial - Abbott",
+    "user": 24,
+    "expected_submission_date": "2019-11-12",
+    "actual_submission_date": "2017-04-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 369,
+  "fields": {
+    "series": 4,
+    "title": "Exerta - tutorial - Cole",
+    "user": 4,
+    "expected_submission_date": "2017-02-25",
+    "actual_submission_date": "2018-03-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 370,
+  "fields": {
+    "series": 5,
+    "title": "Hydrocom - tutorial - Fern",
+    "user": 28,
+    "expected_submission_date": "2017-08-10",
+    "actual_submission_date": "2019-06-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 371,
+  "fields": {
+    "series": 4,
+    "title": "Isoternia - tutorial - Bennett",
+    "user": 42,
+    "expected_submission_date": "2019-09-01",
+    "actual_submission_date": "2018-05-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 372,
+  "fields": {
+    "series": 9,
+    "title": "Webiotic - tutorial - Oneil",
+    "user": 26,
+    "expected_submission_date": "2019-12-21",
+    "actual_submission_date": "2018-11-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 373,
+  "fields": {
+    "series": 1,
+    "title": "Daycore - tutorial - Ester",
+    "user": 37,
+    "expected_submission_date": "2018-09-09",
+    "actual_submission_date": "2018-05-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 374,
+  "fields": {
+    "series": 7,
+    "title": "Updat - tutorial - Jo",
+    "user": 40,
+    "expected_submission_date": "2017-05-20",
+    "actual_submission_date": "2018-05-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 375,
+  "fields": {
+    "series": 7,
+    "title": "Veraq - tutorial - Margie",
+    "user": 33,
+    "expected_submission_date": "2018-10-31",
+    "actual_submission_date": "2018-01-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 376,
+  "fields": {
+    "series": 8,
+    "title": "Nutralab - tutorial - Deloris",
+    "user": 1,
+    "expected_submission_date": "2018-01-30",
+    "actual_submission_date": "2018-05-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 377,
+  "fields": {
+    "series": 5,
+    "title": "Enervate - tutorial - Leach",
+    "user": 35,
+    "expected_submission_date": "2018-11-01",
+    "actual_submission_date": "2018-07-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 378,
+  "fields": {
+    "series": 7,
+    "title": "Eternis - tutorial - Nixon",
+    "user": 48,
+    "expected_submission_date": "2018-07-16",
+    "actual_submission_date": "2019-04-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 379,
+  "fields": {
+    "series": 8,
+    "title": "Comtest - tutorial - Gaines",
+    "user": 27,
+    "expected_submission_date": "2017-10-21",
+    "actual_submission_date": "2017-01-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 380,
+  "fields": {
+    "series": 7,
+    "title": "Nipaz - tutorial - Flynn",
+    "user": 24,
+    "expected_submission_date": "2018-05-31",
+    "actual_submission_date": "2019-05-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 381,
+  "fields": {
+    "series": 5,
+    "title": "Panzent - tutorial - Cynthia",
+    "user": 37,
+    "expected_submission_date": "2018-05-31",
+    "actual_submission_date": "2019-04-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 382,
+  "fields": {
+    "series": 7,
+    "title": "Visalia - tutorial - Harrington",
+    "user": 23,
+    "expected_submission_date": "2017-07-13",
+    "actual_submission_date": "2018-04-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 383,
+  "fields": {
+    "series": 3,
+    "title": "Mazuda - tutorial - Byrd",
+    "user": 37,
+    "expected_submission_date": "2020-01-09",
+    "actual_submission_date": "2018-09-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 384,
+  "fields": {
+    "series": 3,
+    "title": "Rockabye - tutorial - Etta",
+    "user": 41,
+    "expected_submission_date": "2018-05-09",
+    "actual_submission_date": "2018-08-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 385,
+  "fields": {
+    "series": 6,
+    "title": "Candecor - tutorial - Tyson",
+    "user": 18,
+    "expected_submission_date": "2018-12-25",
+    "actual_submission_date": "2017-06-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 386,
+  "fields": {
+    "series": 4,
+    "title": "Beadzza - tutorial - Miller",
+    "user": 26,
+    "expected_submission_date": "2018-12-24",
+    "actual_submission_date": "2019-05-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 387,
+  "fields": {
+    "series": 3,
+    "title": "Ultrasure - tutorial - Farley",
+    "user": 9,
+    "expected_submission_date": "2017-07-25",
+    "actual_submission_date": "2019-02-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 388,
+  "fields": {
+    "series": 2,
+    "title": "Multron - tutorial - Frances",
+    "user": 29,
+    "expected_submission_date": "2019-02-04",
+    "actual_submission_date": "2018-02-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 389,
+  "fields": {
+    "series": 1,
+    "title": "Konnect - tutorial - Merritt",
+    "user": 17,
+    "expected_submission_date": "2019-09-09",
+    "actual_submission_date": "2019-05-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 390,
+  "fields": {
+    "series": 3,
+    "title": "Repetwire - tutorial - Witt",
+    "user": 11,
+    "expected_submission_date": "2018-08-26",
+    "actual_submission_date": "2019-03-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 391,
+  "fields": {
+    "series": 2,
+    "title": "Roughies - tutorial - Jeannie",
+    "user": 15,
+    "expected_submission_date": "2018-06-02",
+    "actual_submission_date": "2017-12-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 392,
+  "fields": {
+    "series": 6,
+    "title": "Signity - tutorial - Lesa",
+    "user": 19,
+    "expected_submission_date": "2019-03-13",
+    "actual_submission_date": "2017-06-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 393,
+  "fields": {
+    "series": 2,
+    "title": "Manufact - tutorial - Hebert",
+    "user": 33,
+    "expected_submission_date": "2017-04-08",
+    "actual_submission_date": "2018-07-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 394,
+  "fields": {
+    "series": 1,
+    "title": "Genmex - tutorial - Terri",
+    "user": 11,
+    "expected_submission_date": "2018-11-26",
+    "actual_submission_date": "2017-04-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 395,
+  "fields": {
+    "series": 4,
+    "title": "Fibrodyne - tutorial - Paige",
+    "user": 47,
+    "expected_submission_date": "2017-04-03",
+    "actual_submission_date": "2017-11-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 396,
+  "fields": {
+    "series": 1,
+    "title": "Comvene - tutorial - Russell",
+    "user": 15,
+    "expected_submission_date": "2017-10-14",
+    "actual_submission_date": "2018-01-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 397,
+  "fields": {
+    "series": 6,
+    "title": "Opportech - tutorial - Charlotte",
+    "user": 26,
+    "expected_submission_date": "2019-01-09",
+    "actual_submission_date": "2019-05-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 398,
+  "fields": {
+    "series": 6,
+    "title": "Columella - tutorial - Peck",
+    "user": 4,
+    "expected_submission_date": "2019-10-18",
+    "actual_submission_date": "2018-11-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 399,
+  "fields": {
+    "series": 9,
+    "title": "Qaboos - tutorial - Odonnell",
+    "user": 33,
+    "expected_submission_date": "2018-02-21",
+    "actual_submission_date": "2019-12-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 400,
+  "fields": {
+    "series": 4,
+    "title": "Norsup - tutorial - Shields",
+    "user": 46,
+    "expected_submission_date": "2017-03-29",
+    "actual_submission_date": "2018-12-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 401,
+  "fields": {
+    "series": 4,
+    "title": "Extrawear - tutorial - Hubbard",
+    "user": 6,
+    "expected_submission_date": "2017-09-17",
+    "actual_submission_date": "2017-04-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 402,
+  "fields": {
+    "series": 1,
+    "title": "Franscene - tutorial - Lina",
+    "user": 26,
+    "expected_submission_date": "2017-07-31",
+    "actual_submission_date": "2018-03-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 403,
+  "fields": {
+    "series": 6,
+    "title": "Aeora - tutorial - Heidi",
+    "user": 21,
+    "expected_submission_date": "2019-09-13",
+    "actual_submission_date": "2018-06-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 404,
+  "fields": {
+    "series": 5,
+    "title": "Namebox - tutorial - Tracy",
+    "user": 31,
+    "expected_submission_date": "2019-05-31",
+    "actual_submission_date": "2018-03-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 405,
+  "fields": {
+    "series": 7,
+    "title": "Sentia - tutorial - Tiffany",
+    "user": 20,
+    "expected_submission_date": "2018-04-22",
+    "actual_submission_date": "2017-06-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 406,
+  "fields": {
+    "series": 2,
+    "title": "Enersol - tutorial - Cameron",
+    "user": 31,
+    "expected_submission_date": "2019-03-25",
+    "actual_submission_date": "2018-05-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 407,
+  "fields": {
+    "series": 8,
+    "title": "Xeronk - tutorial - Marian",
+    "user": 40,
+    "expected_submission_date": "2019-02-25",
+    "actual_submission_date": "2017-02-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 408,
+  "fields": {
+    "series": 6,
+    "title": "Zoxy - tutorial - Park",
+    "user": 37,
+    "expected_submission_date": "2017-04-18",
+    "actual_submission_date": "2017-06-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 409,
+  "fields": {
+    "series": 3,
+    "title": "Quiltigen - tutorial - Melissa",
+    "user": 18,
+    "expected_submission_date": "2017-12-29",
+    "actual_submission_date": "2017-11-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 410,
+  "fields": {
+    "series": 3,
+    "title": "Biohab - tutorial - Bird",
+    "user": 46,
+    "expected_submission_date": "2017-05-30",
+    "actual_submission_date": "2017-05-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 411,
+  "fields": {
+    "series": 6,
+    "title": "Conjurica - tutorial - Becker",
+    "user": 35,
+    "expected_submission_date": "2019-05-25",
+    "actual_submission_date": "2019-09-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 412,
+  "fields": {
+    "series": 6,
+    "title": "Accel - tutorial - Barton",
+    "user": 47,
+    "expected_submission_date": "2019-02-02",
+    "actual_submission_date": "2018-06-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 413,
+  "fields": {
+    "series": 6,
+    "title": "Equitax - tutorial - Hilary",
+    "user": 13,
+    "expected_submission_date": "2017-02-07",
+    "actual_submission_date": "2018-04-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 414,
+  "fields": {
+    "series": 4,
+    "title": "Austex - tutorial - Colleen",
+    "user": 48,
+    "expected_submission_date": "2017-09-26",
+    "actual_submission_date": "2019-02-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 415,
+  "fields": {
+    "series": 6,
+    "title": "Ziggles - tutorial - Hansen",
+    "user": 5,
+    "expected_submission_date": "2017-10-02",
+    "actual_submission_date": "2017-08-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 416,
+  "fields": {
+    "series": 8,
+    "title": "Ceprene - tutorial - Jenna",
+    "user": 28,
+    "expected_submission_date": "2017-03-07",
+    "actual_submission_date": "2018-12-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 417,
+  "fields": {
+    "series": 5,
+    "title": "Kongle - tutorial - Imogene",
+    "user": 12,
+    "expected_submission_date": "2017-01-07",
+    "actual_submission_date": "2019-07-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 418,
+  "fields": {
+    "series": 2,
+    "title": "Malathion - tutorial - Goldie",
+    "user": 10,
+    "expected_submission_date": "2019-04-03",
+    "actual_submission_date": "2017-11-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 419,
+  "fields": {
+    "series": 2,
+    "title": "Isoplex - tutorial - Tameka",
+    "user": 37,
+    "expected_submission_date": "2018-01-08",
+    "actual_submission_date": "2019-03-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 420,
+  "fields": {
+    "series": 3,
+    "title": "Bluplanet - tutorial - Rachel",
+    "user": 46,
+    "expected_submission_date": "2017-11-22",
+    "actual_submission_date": "2019-11-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 421,
+  "fields": {
+    "series": 4,
+    "title": "Parcoe - tutorial - Roman",
+    "user": 26,
+    "expected_submission_date": "2018-07-12",
+    "actual_submission_date": "2018-06-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 422,
+  "fields": {
+    "series": 9,
+    "title": "Virxo - tutorial - Mcgowan",
+    "user": 30,
+    "expected_submission_date": "2018-03-18",
+    "actual_submission_date": "2019-04-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 423,
+  "fields": {
+    "series": 1,
+    "title": "Kongene - tutorial - Sadie",
+    "user": 14,
+    "expected_submission_date": "2019-04-05",
+    "actual_submission_date": "2017-08-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 424,
+  "fields": {
+    "series": 4,
+    "title": "Uncorp - tutorial - Gordon",
+    "user": 9,
+    "expected_submission_date": "2019-12-18",
+    "actual_submission_date": "2018-05-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 425,
+  "fields": {
+    "series": 2,
+    "title": "Digiprint - tutorial - Connie",
+    "user": 22,
+    "expected_submission_date": "2019-07-02",
+    "actual_submission_date": "2018-02-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 426,
+  "fields": {
+    "series": 3,
+    "title": "Zilla - tutorial - Lynn",
+    "user": 15,
+    "expected_submission_date": "2017-08-14",
+    "actual_submission_date": "2017-06-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 427,
+  "fields": {
+    "series": 1,
+    "title": "Hawkster - tutorial - Harrell",
+    "user": 36,
+    "expected_submission_date": "2018-05-29",
+    "actual_submission_date": "2018-06-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 428,
+  "fields": {
+    "series": 6,
+    "title": "Digigene - tutorial - Peterson",
+    "user": 24,
+    "expected_submission_date": "2017-06-05",
+    "actual_submission_date": "2018-02-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 429,
+  "fields": {
+    "series": 3,
+    "title": "Nitracyr - tutorial - Lucia",
+    "user": 26,
+    "expected_submission_date": "2017-02-02",
+    "actual_submission_date": "2018-05-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 430,
+  "fields": {
+    "series": 1,
+    "title": "Scenty - tutorial - Gibson",
+    "user": 17,
+    "expected_submission_date": "2020-01-02",
+    "actual_submission_date": "2017-06-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 431,
+  "fields": {
+    "series": 3,
+    "title": "Combot - tutorial - Lillie",
+    "user": 6,
+    "expected_submission_date": "2018-01-06",
+    "actual_submission_date": "2017-01-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 432,
+  "fields": {
+    "series": 5,
+    "title": "Ecolight - tutorial - Tommie",
+    "user": 10,
+    "expected_submission_date": "2018-09-01",
+    "actual_submission_date": "2019-05-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 433,
+  "fields": {
+    "series": 2,
+    "title": "Centice - tutorial - Jaime",
+    "user": 17,
+    "expected_submission_date": "2017-05-01",
+    "actual_submission_date": "2018-01-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 434,
+  "fields": {
+    "series": 4,
+    "title": "Koffee - tutorial - Willa",
+    "user": 5,
+    "expected_submission_date": "2018-11-25",
+    "actual_submission_date": "2019-01-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 435,
+  "fields": {
+    "series": 3,
+    "title": "Acium - tutorial - Katheryn",
+    "user": 47,
+    "expected_submission_date": "2017-10-06",
+    "actual_submission_date": "2018-06-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 436,
+  "fields": {
+    "series": 6,
+    "title": "Cujo - tutorial - Krystal",
+    "user": 50,
+    "expected_submission_date": "2018-09-28",
+    "actual_submission_date": "2019-08-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 437,
+  "fields": {
+    "series": 7,
+    "title": "Hopeli - tutorial - Henrietta",
+    "user": 1,
+    "expected_submission_date": "2018-05-05",
+    "actual_submission_date": "2017-03-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 438,
+  "fields": {
+    "series": 6,
+    "title": "Prowaste - tutorial - Riley",
+    "user": 24,
+    "expected_submission_date": "2018-06-01",
+    "actual_submission_date": "2017-08-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 439,
+  "fields": {
+    "series": 7,
+    "title": "Idealis - tutorial - Leonard",
+    "user": 12,
+    "expected_submission_date": "2020-01-24",
+    "actual_submission_date": "2017-07-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 440,
+  "fields": {
+    "series": 7,
+    "title": "Crustatia - tutorial - Collins",
+    "user": 4,
+    "expected_submission_date": "2017-06-11",
+    "actual_submission_date": "2017-11-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 441,
+  "fields": {
+    "series": 5,
+    "title": "Netagy - tutorial - Rosalie",
+    "user": 49,
+    "expected_submission_date": "2019-10-14",
+    "actual_submission_date": "2019-02-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 442,
+  "fields": {
+    "series": 2,
+    "title": "Uplinx - tutorial - Wendy",
+    "user": 1,
+    "expected_submission_date": "2017-09-27",
+    "actual_submission_date": "2017-03-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 443,
+  "fields": {
+    "series": 5,
+    "title": "Sequitur - tutorial - Torres",
+    "user": 34,
+    "expected_submission_date": "2019-01-13",
+    "actual_submission_date": "2018-04-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 444,
+  "fields": {
+    "series": 6,
+    "title": "Lexicondo - tutorial - Gonzales",
+    "user": 49,
+    "expected_submission_date": "2018-03-10",
+    "actual_submission_date": "2017-12-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 445,
+  "fields": {
+    "series": 6,
+    "title": "Quantalia - tutorial - Marina",
+    "user": 47,
+    "expected_submission_date": "2018-10-13",
+    "actual_submission_date": "2017-10-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 446,
+  "fields": {
+    "series": 8,
+    "title": "Lingoage - tutorial - Carissa",
+    "user": 22,
+    "expected_submission_date": "2018-10-24",
+    "actual_submission_date": "2019-12-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 447,
+  "fields": {
+    "series": 7,
+    "title": "Qnekt - tutorial - Elba",
+    "user": 3,
+    "expected_submission_date": "2017-02-08",
+    "actual_submission_date": "2018-04-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 448,
+  "fields": {
+    "series": 7,
+    "title": "Overfork - tutorial - Chambers",
+    "user": 40,
+    "expected_submission_date": "2019-10-08",
+    "actual_submission_date": "2017-02-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 449,
+  "fields": {
+    "series": 8,
+    "title": "Affluex - tutorial - Ortega",
+    "user": 8,
+    "expected_submission_date": "2018-03-22",
+    "actual_submission_date": "2018-08-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 450,
+  "fields": {
+    "series": 7,
+    "title": "Accidency - tutorial - Doris",
+    "user": 34,
+    "expected_submission_date": "2018-07-14",
+    "actual_submission_date": "2018-08-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 451,
+  "fields": {
+    "series": 4,
+    "title": "Polarium - tutorial - Barber",
+    "user": 48,
+    "expected_submission_date": "2020-01-07",
+    "actual_submission_date": "2018-10-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 452,
+  "fields": {
+    "series": 3,
+    "title": "Rodemco - tutorial - Burgess",
+    "user": 48,
+    "expected_submission_date": "2017-03-07",
+    "actual_submission_date": "2019-10-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 453,
+  "fields": {
+    "series": 1,
+    "title": "Fortean - tutorial - Mathis",
+    "user": 17,
+    "expected_submission_date": "2018-12-28",
+    "actual_submission_date": "2017-12-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 454,
+  "fields": {
+    "series": 6,
+    "title": "Squish - tutorial - Josie",
+    "user": 31,
+    "expected_submission_date": "2017-12-18",
+    "actual_submission_date": "2019-07-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 455,
+  "fields": {
+    "series": 8,
+    "title": "Sportan - tutorial - Cunningham",
+    "user": 17,
+    "expected_submission_date": "2017-11-28",
+    "actual_submission_date": "2018-01-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 456,
+  "fields": {
+    "series": 6,
+    "title": "Sonique - tutorial - Reed",
+    "user": 31,
+    "expected_submission_date": "2019-01-08",
+    "actual_submission_date": "2019-11-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 457,
+  "fields": {
+    "series": 1,
+    "title": "Gluid - tutorial - Warren",
+    "user": 20,
+    "expected_submission_date": "2018-06-05",
+    "actual_submission_date": "2018-11-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 458,
+  "fields": {
+    "series": 1,
+    "title": "Boink - tutorial - Chandler",
+    "user": 50,
+    "expected_submission_date": "2019-01-09",
+    "actual_submission_date": "2017-01-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 459,
+  "fields": {
+    "series": 9,
+    "title": "Snacktion - tutorial - Katherine",
+    "user": 31,
+    "expected_submission_date": "2019-09-21",
+    "actual_submission_date": "2019-01-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 460,
+  "fields": {
+    "series": 5,
+    "title": "Urbanshee - tutorial - Barbara",
+    "user": 33,
+    "expected_submission_date": "2017-11-20",
+    "actual_submission_date": "2017-10-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 461,
+  "fields": {
+    "series": 7,
+    "title": "Oceanica - tutorial - Cruz",
+    "user": 11,
+    "expected_submission_date": "2019-05-17",
+    "actual_submission_date": "2017-03-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 462,
+  "fields": {
+    "series": 3,
+    "title": "Interloo - tutorial - Winnie",
+    "user": 8,
+    "expected_submission_date": "2019-11-15",
+    "actual_submission_date": "2019-04-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 463,
+  "fields": {
+    "series": 9,
+    "title": "Cofine - tutorial - Cecelia",
+    "user": 27,
+    "expected_submission_date": "2018-08-21",
+    "actual_submission_date": "2019-01-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 464,
+  "fields": {
+    "series": 7,
+    "title": "Chillium - tutorial - Bertha",
+    "user": 49,
+    "expected_submission_date": "2018-03-01",
+    "actual_submission_date": "2018-03-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 465,
+  "fields": {
+    "series": 1,
+    "title": "Amril - tutorial - Walters",
+    "user": 37,
+    "expected_submission_date": "2019-10-22",
+    "actual_submission_date": "2019-05-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 466,
+  "fields": {
+    "series": 1,
+    "title": "Voratak - tutorial - Chandra",
+    "user": 19,
+    "expected_submission_date": "2017-01-17",
+    "actual_submission_date": "2018-07-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 467,
+  "fields": {
+    "series": 5,
+    "title": "Steelfab - tutorial - Travis",
+    "user": 39,
+    "expected_submission_date": "2018-03-18",
+    "actual_submission_date": "2017-12-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 468,
+  "fields": {
+    "series": 1,
+    "title": "Datacator - tutorial - Joy",
+    "user": 6,
+    "expected_submission_date": "2017-02-20",
+    "actual_submission_date": "2017-07-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 469,
+  "fields": {
+    "series": 2,
+    "title": "Quarmony - tutorial - Macias",
+    "user": 21,
+    "expected_submission_date": "2019-04-10",
+    "actual_submission_date": "2019-09-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 470,
+  "fields": {
+    "series": 2,
+    "title": "Comstar - tutorial - Marshall",
+    "user": 8,
+    "expected_submission_date": "2019-01-08",
+    "actual_submission_date": "2017-01-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 471,
+  "fields": {
+    "series": 5,
+    "title": "Netropic - tutorial - Tamra",
+    "user": 49,
+    "expected_submission_date": "2018-02-22",
+    "actual_submission_date": "2018-04-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 472,
+  "fields": {
+    "series": 2,
+    "title": "Snowpoke - tutorial - Fay",
+    "user": 49,
+    "expected_submission_date": "2019-04-06",
+    "actual_submission_date": "2017-05-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 473,
+  "fields": {
+    "series": 1,
+    "title": "Stucco - tutorial - Kitty",
+    "user": 26,
+    "expected_submission_date": "2017-04-01",
+    "actual_submission_date": "2018-02-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 474,
+  "fields": {
+    "series": 7,
+    "title": "Chorizon - tutorial - Perry",
+    "user": 14,
+    "expected_submission_date": "2020-01-10",
+    "actual_submission_date": "2019-03-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 475,
+  "fields": {
+    "series": 3,
+    "title": "Protodyne - tutorial - Sims",
+    "user": 48,
+    "expected_submission_date": "2017-09-16",
+    "actual_submission_date": "2018-06-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 476,
+  "fields": {
+    "series": 1,
+    "title": "Caxt - tutorial - Simmons",
+    "user": 26,
+    "expected_submission_date": "2018-11-22",
+    "actual_submission_date": "2017-10-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 477,
+  "fields": {
+    "series": 6,
+    "title": "Zentury - tutorial - Gale",
+    "user": 16,
+    "expected_submission_date": "2019-08-01",
+    "actual_submission_date": "2019-11-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 478,
+  "fields": {
+    "series": 1,
+    "title": "Insource - tutorial - Shelly",
+    "user": 25,
+    "expected_submission_date": "2018-04-12",
+    "actual_submission_date": "2018-01-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 479,
+  "fields": {
+    "series": 6,
+    "title": "Kiosk - tutorial - Goff",
+    "user": 40,
+    "expected_submission_date": "2019-06-16",
+    "actual_submission_date": "2017-12-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 480,
+  "fields": {
+    "series": 2,
+    "title": "Zentry - tutorial - Talley",
+    "user": 28,
+    "expected_submission_date": "2018-01-17",
+    "actual_submission_date": "2017-07-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 481,
+  "fields": {
+    "series": 6,
+    "title": "Grupoli - tutorial - Bolton",
+    "user": 22,
+    "expected_submission_date": "2017-02-23",
+    "actual_submission_date": "2018-11-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 482,
+  "fields": {
+    "series": 7,
+    "title": "Ersum - tutorial - Maureen",
+    "user": 12,
+    "expected_submission_date": "2017-07-28",
+    "actual_submission_date": "2018-05-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 483,
+  "fields": {
+    "series": 4,
+    "title": "Jasper - tutorial - Marjorie",
+    "user": 27,
+    "expected_submission_date": "2018-11-05",
+    "actual_submission_date": "2017-03-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 484,
+  "fields": {
+    "series": 8,
+    "title": "Tetratrex - tutorial - Marisol",
+    "user": 42,
+    "expected_submission_date": "2019-08-27",
+    "actual_submission_date": "2017-01-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 485,
+  "fields": {
+    "series": 2,
+    "title": "Bullzone - tutorial - Rebecca",
+    "user": 38,
+    "expected_submission_date": "2017-11-26",
+    "actual_submission_date": "2019-02-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 486,
+  "fields": {
+    "series": 1,
+    "title": "Aquoavo - tutorial - Kayla",
+    "user": 44,
+    "expected_submission_date": "2018-06-29",
+    "actual_submission_date": "2019-06-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 487,
+  "fields": {
+    "series": 6,
+    "title": "Phormula - tutorial - Martin",
+    "user": 3,
+    "expected_submission_date": "2017-11-06",
+    "actual_submission_date": "2019-10-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 488,
+  "fields": {
+    "series": 8,
+    "title": "Ecstasia - tutorial - Carolina",
+    "user": 7,
+    "expected_submission_date": "2018-02-21",
+    "actual_submission_date": "2018-12-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 489,
+  "fields": {
+    "series": 7,
+    "title": "Plasmos - tutorial - Garza",
+    "user": 41,
+    "expected_submission_date": "2019-04-28",
+    "actual_submission_date": "2019-02-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 490,
+  "fields": {
+    "series": 7,
+    "title": "Assurity - tutorial - Esmeralda",
+    "user": 24,
+    "expected_submission_date": "2019-12-26",
+    "actual_submission_date": "2019-06-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 491,
+  "fields": {
+    "series": 3,
+    "title": "Zerology - tutorial - Wiggins",
+    "user": 46,
+    "expected_submission_date": "2018-02-04",
+    "actual_submission_date": "2018-07-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 492,
+  "fields": {
+    "series": 2,
+    "title": "Sultrax - tutorial - Alexandria",
+    "user": 43,
+    "expected_submission_date": "2019-11-09",
+    "actual_submission_date": "2018-11-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 493,
+  "fields": {
+    "series": 1,
+    "title": "Tropolis - tutorial - Parsons",
+    "user": 28,
+    "expected_submission_date": "2019-06-22",
+    "actual_submission_date": "2017-06-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 494,
+  "fields": {
+    "series": 4,
+    "title": "Kenegy - tutorial - Maddox",
+    "user": 21,
+    "expected_submission_date": "2018-06-20",
+    "actual_submission_date": "2018-02-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 495,
+  "fields": {
+    "series": 3,
+    "title": "Pyrami - tutorial - Henson",
+    "user": 9,
+    "expected_submission_date": "2018-05-13",
+    "actual_submission_date": "2017-04-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 496,
+  "fields": {
+    "series": 4,
+    "title": "Lotron - tutorial - Dudley",
+    "user": 35,
+    "expected_submission_date": "2017-06-06",
+    "actual_submission_date": "2018-09-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 497,
+  "fields": {
+    "series": 9,
+    "title": "Jamnation - tutorial - Berta",
+    "user": 31,
+    "expected_submission_date": "2018-07-13",
+    "actual_submission_date": "2018-01-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 498,
+  "fields": {
+    "series": 8,
+    "title": "Genesynk - tutorial - Nikki",
+    "user": 17,
+    "expected_submission_date": "2017-06-21",
+    "actual_submission_date": "2019-01-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 499,
+  "fields": {
+    "series": 6,
+    "title": "Vertide - tutorial - Letitia",
+    "user": 26,
+    "expected_submission_date": "2018-08-11",
+    "actual_submission_date": "2019-05-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 500,
+  "fields": {
+    "series": 3,
+    "title": "Animalia - tutorial - Effie",
+    "user": 18,
+    "expected_submission_date": "2017-04-01",
+    "actual_submission_date": "2019-06-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 501,
+  "fields": {
+    "series": 7,
+    "title": "Lunchpod - tutorial - Whitney",
+    "user": 16,
+    "expected_submission_date": "2018-10-26",
+    "actual_submission_date": "2018-05-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 502,
+  "fields": {
+    "series": 4,
+    "title": "Geofarm - tutorial - Houston",
+    "user": 18,
+    "expected_submission_date": "2017-11-07",
+    "actual_submission_date": "2017-05-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 503,
+  "fields": {
+    "series": 5,
+    "title": "Viocular - tutorial - Polly",
+    "user": 22,
+    "expected_submission_date": "2017-05-12",
+    "actual_submission_date": "2017-07-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 504,
+  "fields": {
+    "series": 6,
+    "title": "Omnigog - tutorial - Cardenas",
+    "user": 37,
+    "expected_submission_date": "2019-01-02",
+    "actual_submission_date": "2017-11-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 505,
+  "fields": {
+    "series": 5,
+    "title": "Paragonia - tutorial - Hancock",
+    "user": 20,
+    "expected_submission_date": "2019-12-30",
+    "actual_submission_date": "2017-03-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 506,
+  "fields": {
+    "series": 8,
+    "title": "Daisu - tutorial - Yvonne",
+    "user": 14,
+    "expected_submission_date": "2019-03-10",
+    "actual_submission_date": "2019-01-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 507,
+  "fields": {
+    "series": 5,
+    "title": "Miracula - tutorial - Dana",
+    "user": 43,
+    "expected_submission_date": "2018-04-26",
+    "actual_submission_date": "2018-10-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 508,
+  "fields": {
+    "series": 7,
+    "title": "Avenetro - tutorial - Sutton",
+    "user": 21,
+    "expected_submission_date": "2019-06-18",
+    "actual_submission_date": "2017-09-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 509,
+  "fields": {
+    "series": 3,
+    "title": "Songlines - tutorial - Dianne",
+    "user": 50,
+    "expected_submission_date": "2017-10-18",
+    "actual_submission_date": "2018-03-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 510,
+  "fields": {
+    "series": 8,
+    "title": "Collaire - tutorial - Autumn",
+    "user": 11,
+    "expected_submission_date": "2018-02-15",
+    "actual_submission_date": "2017-01-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 511,
+  "fields": {
+    "series": 3,
+    "title": "Spherix - tutorial - Vasquez",
+    "user": 8,
+    "expected_submission_date": "2017-03-18",
+    "actual_submission_date": "2017-02-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 512,
+  "fields": {
+    "series": 4,
+    "title": "Exosis - tutorial - Malone",
+    "user": 9,
+    "expected_submission_date": "2019-05-30",
+    "actual_submission_date": "2017-01-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 513,
+  "fields": {
+    "series": 1,
+    "title": "Rameon - tutorial - Christina",
+    "user": 39,
+    "expected_submission_date": "2017-12-09",
+    "actual_submission_date": "2017-03-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 514,
+  "fields": {
+    "series": 6,
+    "title": "Bleeko - tutorial - Katelyn",
+    "user": 10,
+    "expected_submission_date": "2019-11-24",
+    "actual_submission_date": "2017-01-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 515,
+  "fields": {
+    "series": 6,
+    "title": "Calcula - tutorial - Chang",
+    "user": 6,
+    "expected_submission_date": "2019-01-04",
+    "actual_submission_date": "2018-03-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 516,
+  "fields": {
+    "series": 5,
+    "title": "Portica - tutorial - Arline",
+    "user": 5,
+    "expected_submission_date": "2019-04-04",
+    "actual_submission_date": "2018-06-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 517,
+  "fields": {
+    "series": 5,
+    "title": "Architax - tutorial - French",
+    "user": 48,
+    "expected_submission_date": "2019-09-02",
+    "actual_submission_date": "2020-01-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 518,
+  "fields": {
+    "series": 5,
+    "title": "Organica - tutorial - Alfreda",
+    "user": 1,
+    "expected_submission_date": "2019-12-17",
+    "actual_submission_date": "2017-12-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 519,
+  "fields": {
+    "series": 1,
+    "title": "Extragene - tutorial - Carole",
+    "user": 9,
+    "expected_submission_date": "2020-01-19",
+    "actual_submission_date": "2019-04-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 520,
+  "fields": {
+    "series": 7,
+    "title": "Bittor - tutorial - Carter",
+    "user": 48,
+    "expected_submission_date": "2017-03-12",
+    "actual_submission_date": "2019-06-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 521,
+  "fields": {
+    "series": 9,
+    "title": "Lumbrex - tutorial - Mccarty",
+    "user": 40,
+    "expected_submission_date": "2019-02-28",
+    "actual_submission_date": "2018-08-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 522,
+  "fields": {
+    "series": 7,
+    "title": "Zanity - tutorial - Robbie",
+    "user": 25,
+    "expected_submission_date": "2019-03-02",
+    "actual_submission_date": "2019-12-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 523,
+  "fields": {
+    "series": 7,
+    "title": "Anarco - tutorial - Lenore",
+    "user": 35,
+    "expected_submission_date": "2019-07-23",
+    "actual_submission_date": "2020-01-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 524,
+  "fields": {
+    "series": 5,
+    "title": "Matrixity - tutorial - Douglas",
+    "user": 7,
+    "expected_submission_date": "2019-01-11",
+    "actual_submission_date": "2017-06-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 525,
+  "fields": {
+    "series": 2,
+    "title": "Rockyard - tutorial - Camacho",
+    "user": 4,
+    "expected_submission_date": "2019-02-20",
+    "actual_submission_date": "2017-07-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 526,
+  "fields": {
+    "series": 4,
+    "title": "Utara - tutorial - Bettie",
+    "user": 7,
+    "expected_submission_date": "2017-08-30",
+    "actual_submission_date": "2017-05-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 527,
+  "fields": {
+    "series": 7,
+    "title": "Zanymax - tutorial - Mclean",
+    "user": 13,
+    "expected_submission_date": "2019-04-10",
+    "actual_submission_date": "2018-05-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 528,
+  "fields": {
+    "series": 4,
+    "title": "Silodyne - tutorial - Schmidt",
+    "user": 44,
+    "expected_submission_date": "2017-10-06",
+    "actual_submission_date": "2019-08-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 529,
+  "fields": {
+    "series": 5,
+    "title": "Kegular - tutorial - Case",
+    "user": 39,
+    "expected_submission_date": "2019-04-12",
+    "actual_submission_date": "2017-06-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 530,
+  "fields": {
+    "series": 3,
+    "title": "Zillacon - tutorial - Banks",
+    "user": 17,
+    "expected_submission_date": "2019-12-08",
+    "actual_submission_date": "2019-05-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 531,
+  "fields": {
+    "series": 3,
+    "title": "Insuresys - tutorial - Heath",
+    "user": 42,
+    "expected_submission_date": "2017-07-04",
+    "actual_submission_date": "2017-10-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 532,
+  "fields": {
+    "series": 7,
+    "title": "Unq - tutorial - Frankie",
+    "user": 47,
+    "expected_submission_date": "2017-02-10",
+    "actual_submission_date": "2017-07-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 533,
+  "fields": {
+    "series": 7,
+    "title": "Micronaut - tutorial - Hunter",
+    "user": 27,
+    "expected_submission_date": "2017-07-17",
+    "actual_submission_date": "2019-02-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 534,
+  "fields": {
+    "series": 9,
+    "title": "Gadtron - tutorial - Evelyn",
+    "user": 10,
+    "expected_submission_date": "2017-06-27",
+    "actual_submission_date": "2017-04-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 535,
+  "fields": {
+    "series": 6,
+    "title": "Quordate - tutorial - Fox",
+    "user": 21,
+    "expected_submission_date": "2017-01-11",
+    "actual_submission_date": "2017-08-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 536,
+  "fields": {
+    "series": 1,
+    "title": "Cosmosis - tutorial - Olga",
+    "user": 19,
+    "expected_submission_date": "2019-11-12",
+    "actual_submission_date": "2019-10-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 537,
+  "fields": {
+    "series": 2,
+    "title": "Hairport - tutorial - Elinor",
+    "user": 34,
+    "expected_submission_date": "2018-01-08",
+    "actual_submission_date": "2018-10-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 538,
+  "fields": {
+    "series": 3,
+    "title": "Tropoli - tutorial - Terry",
+    "user": 13,
+    "expected_submission_date": "2019-11-18",
+    "actual_submission_date": "2018-01-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 539,
+  "fields": {
+    "series": 7,
+    "title": "Kyagoro - tutorial - Lara",
+    "user": 19,
+    "expected_submission_date": "2017-06-09",
+    "actual_submission_date": "2019-08-22"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 540,
+  "fields": {
+    "series": 1,
+    "title": "Buzzopia - tutorial - Vivian",
+    "user": 36,
+    "expected_submission_date": "2017-03-22",
+    "actual_submission_date": "2018-10-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 541,
+  "fields": {
+    "series": 5,
+    "title": "Zilladyne - tutorial - Patterson",
+    "user": 34,
+    "expected_submission_date": "2017-03-29",
+    "actual_submission_date": "2018-06-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 542,
+  "fields": {
+    "series": 5,
+    "title": "Xoggle - tutorial - Pacheco",
+    "user": 16,
+    "expected_submission_date": "2018-01-22",
+    "actual_submission_date": "2019-12-24"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 543,
+  "fields": {
+    "series": 2,
+    "title": "Handshake - tutorial - Rochelle",
+    "user": 44,
+    "expected_submission_date": "2017-01-04",
+    "actual_submission_date": "2018-10-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 544,
+  "fields": {
+    "series": 5,
+    "title": "Sunclipse - tutorial - Jackie",
+    "user": 7,
+    "expected_submission_date": "2019-10-27",
+    "actual_submission_date": "2019-06-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 545,
+  "fields": {
+    "series": 5,
+    "title": "Entogrok - tutorial - Nicholson",
+    "user": 22,
+    "expected_submission_date": "2017-11-30",
+    "actual_submission_date": "2017-07-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 546,
+  "fields": {
+    "series": 5,
+    "title": "Baluba - tutorial - Robbins",
+    "user": 42,
+    "expected_submission_date": "2017-12-23",
+    "actual_submission_date": "2019-10-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 547,
+  "fields": {
+    "series": 8,
+    "title": "Vicon - tutorial - Gonzalez",
+    "user": 35,
+    "expected_submission_date": "2019-01-29",
+    "actual_submission_date": "2018-02-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 548,
+  "fields": {
+    "series": 9,
+    "title": "Geekwagon - tutorial - Tucker",
+    "user": 39,
+    "expected_submission_date": "2019-12-06",
+    "actual_submission_date": "2017-07-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 549,
+  "fields": {
+    "series": 2,
+    "title": "Geekus - tutorial - Wong",
+    "user": 27,
+    "expected_submission_date": "2017-10-18",
+    "actual_submission_date": "2017-12-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 550,
+  "fields": {
+    "series": 1,
+    "title": "Trollery - tutorial - Elsie",
+    "user": 2,
+    "expected_submission_date": "2019-03-18",
+    "actual_submission_date": "2018-01-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 551,
+  "fields": {
+    "series": 8,
+    "title": "Plasto - tutorial - Cherry",
+    "user": 11,
+    "expected_submission_date": "2017-08-02",
+    "actual_submission_date": "2019-08-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 552,
+  "fields": {
+    "series": 7,
+    "title": "Tsunamia - tutorial - Eileen",
+    "user": 7,
+    "expected_submission_date": "2017-06-26",
+    "actual_submission_date": "2020-01-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 553,
+  "fields": {
+    "series": 7,
+    "title": "Honotron - tutorial - Crane",
+    "user": 12,
+    "expected_submission_date": "2019-09-30",
+    "actual_submission_date": "2017-02-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 554,
+  "fields": {
+    "series": 3,
+    "title": "Isologia - tutorial - Hull",
+    "user": 41,
+    "expected_submission_date": "2019-06-08",
+    "actual_submission_date": "2017-08-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 555,
+  "fields": {
+    "series": 2,
+    "title": "Apextri - tutorial - Kate",
+    "user": 24,
+    "expected_submission_date": "2019-05-06",
+    "actual_submission_date": "2017-07-21"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 556,
+  "fields": {
+    "series": 7,
+    "title": "Pearlessa - tutorial - Wise",
+    "user": 24,
+    "expected_submission_date": "2018-06-10",
+    "actual_submission_date": "2018-02-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 557,
+  "fields": {
+    "series": 9,
+    "title": "Tingles - tutorial - Melton",
+    "user": 27,
+    "expected_submission_date": "2018-07-05",
+    "actual_submission_date": "2017-01-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 558,
+  "fields": {
+    "series": 7,
+    "title": "Dogspa - tutorial - Gardner",
+    "user": 43,
+    "expected_submission_date": "2019-03-23",
+    "actual_submission_date": "2017-06-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 559,
+  "fields": {
+    "series": 7,
+    "title": "Infotrips - tutorial - Beverley",
+    "user": 24,
+    "expected_submission_date": "2018-12-04",
+    "actual_submission_date": "2019-06-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 560,
+  "fields": {
+    "series": 9,
+    "title": "Zentility - tutorial - Althea",
+    "user": 43,
+    "expected_submission_date": "2020-01-27",
+    "actual_submission_date": "2018-09-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 561,
+  "fields": {
+    "series": 3,
+    "title": "Kozgene - tutorial - Whitehead",
+    "user": 11,
+    "expected_submission_date": "2017-11-02",
+    "actual_submission_date": "2019-04-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 562,
+  "fields": {
+    "series": 2,
+    "title": "Niquent - tutorial - Greer",
+    "user": 37,
+    "expected_submission_date": "2019-11-22",
+    "actual_submission_date": "2018-09-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 563,
+  "fields": {
+    "series": 2,
+    "title": "Nikuda - tutorial - Maude",
+    "user": 28,
+    "expected_submission_date": "2018-11-30",
+    "actual_submission_date": "2017-08-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 564,
+  "fields": {
+    "series": 2,
+    "title": "Pearlesex - tutorial - Patel",
+    "user": 5,
+    "expected_submission_date": "2018-01-26",
+    "actual_submission_date": "2018-03-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 565,
+  "fields": {
+    "series": 3,
+    "title": "Zilencio - tutorial - Buchanan",
+    "user": 36,
+    "expected_submission_date": "2018-03-14",
+    "actual_submission_date": "2018-01-20"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 566,
+  "fields": {
+    "series": 2,
+    "title": "Eclipto - tutorial - Maryann",
+    "user": 13,
+    "expected_submission_date": "2018-01-04",
+    "actual_submission_date": "2018-03-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 567,
+  "fields": {
+    "series": 2,
+    "title": "Ontality - tutorial - Weiss",
+    "user": 29,
+    "expected_submission_date": "2018-03-12",
+    "actual_submission_date": "2018-02-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 568,
+  "fields": {
+    "series": 5,
+    "title": "Chillium - tutorial - Rene",
+    "user": 39,
+    "expected_submission_date": "2018-01-24",
+    "actual_submission_date": "2018-03-31"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 569,
+  "fields": {
+    "series": 2,
+    "title": "Gonkle - tutorial - Hunt",
+    "user": 16,
+    "expected_submission_date": "2018-02-26",
+    "actual_submission_date": "2018-01-30"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 570,
+  "fields": {
+    "series": 4,
+    "title": "Opticon - tutorial - Lynn",
+    "user": 23,
+    "expected_submission_date": "2018-01-19",
+    "actual_submission_date": "2018-03-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 571,
+  "fields": {
+    "series": 2,
+    "title": "Apexia - tutorial - Whitney",
+    "user": 32,
+    "expected_submission_date": "2018-03-08",
+    "actual_submission_date": "2018-01-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 572,
+  "fields": {
+    "series": 3,
+    "title": "Dreamia - tutorial - Snider",
+    "user": 38,
+    "expected_submission_date": "2018-02-21",
+    "actual_submission_date": "2018-02-09"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 573,
+  "fields": {
+    "series": 2,
+    "title": "Conjurica - tutorial - Kelsey",
+    "user": 26,
+    "expected_submission_date": "2018-01-16",
+    "actual_submission_date": "2018-01-26"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 574,
+  "fields": {
+    "series": 1,
+    "title": "Ultrasure - tutorial - Diane",
+    "user": 12,
+    "expected_submission_date": "2018-01-16",
+    "actual_submission_date": "2018-01-18"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 575,
+  "fields": {
+    "series": 3,
+    "title": "Geekus - tutorial - Banks",
+    "user": 40,
+    "expected_submission_date": "2018-03-10",
+    "actual_submission_date": "2018-03-29"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 576,
+  "fields": {
+    "series": 7,
+    "title": "Speedbolt - tutorial - Ashley",
+    "user": 39,
+    "expected_submission_date": "2018-01-30",
+    "actual_submission_date": "2018-03-07"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 577,
+  "fields": {
+    "series": 4,
+    "title": "Uberlux - tutorial - Barbra",
+    "user": 11,
+    "expected_submission_date": "2018-01-07",
+    "actual_submission_date": "2018-03-19"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 578,
+  "fields": {
+    "series": 8,
+    "title": "Coriander - tutorial - Marian",
+    "user": 5,
+    "expected_submission_date": "2018-03-03",
+    "actual_submission_date": "2018-02-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 579,
+  "fields": {
+    "series": 5,
+    "title": "Pigzart - tutorial - Oneill",
+    "user": 35,
+    "expected_submission_date": "2018-01-05",
+    "actual_submission_date": "2018-01-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 580,
+  "fields": {
+    "series": 3,
+    "title": "Plexia - tutorial - Chasity",
+    "user": 29,
+    "expected_submission_date": "2018-03-20",
+    "actual_submission_date": "2018-03-28"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 581,
+  "fields": {
+    "series": 4,
+    "title": "Orboid - tutorial - Elinor",
+    "user": 35,
+    "expected_submission_date": "2018-02-05",
+    "actual_submission_date": "2018-03-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 582,
+  "fields": {
+    "series": 3,
+    "title": "Zillacon - tutorial - Day",
+    "user": 19,
+    "expected_submission_date": "2018-01-09",
+    "actual_submission_date": "2018-02-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 583,
+  "fields": {
+    "series": 4,
+    "title": "Portico - tutorial - Gay",
+    "user": 33,
+    "expected_submission_date": "2018-02-17",
+    "actual_submission_date": "2018-02-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 584,
+  "fields": {
+    "series": 6,
+    "title": "Capscreen - tutorial - Sandoval",
+    "user": 47,
+    "expected_submission_date": "2018-02-19",
+    "actual_submission_date": "2018-02-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 585,
+  "fields": {
+    "series": 9,
+    "title": "Codax - tutorial - Florence",
+    "user": 24,
+    "expected_submission_date": "2018-03-02",
+    "actual_submission_date": "2018-03-12"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 586,
+  "fields": {
+    "series": 3,
+    "title": "Slofast - tutorial - Karen",
+    "user": 46,
+    "expected_submission_date": "2018-01-25",
+    "actual_submission_date": "2018-01-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 587,
+  "fields": {
+    "series": 7,
+    "title": "Mitroc - tutorial - Alvarado",
+    "user": 37,
+    "expected_submission_date": "2018-03-28",
+    "actual_submission_date": "2018-03-03"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 588,
+  "fields": {
+    "series": 5,
+    "title": "Musix - tutorial - Loretta",
+    "user": 4,
+    "expected_submission_date": "2018-01-25",
+    "actual_submission_date": "2018-03-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 589,
+  "fields": {
+    "series": 3,
+    "title": "Mixers - tutorial - Gilbert",
+    "user": 17,
+    "expected_submission_date": "2018-02-09",
+    "actual_submission_date": "2018-03-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 590,
+  "fields": {
+    "series": 6,
+    "title": "Kage - tutorial - Hickman",
+    "user": 44,
+    "expected_submission_date": "2018-03-08",
+    "actual_submission_date": "2018-01-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 591,
+  "fields": {
+    "series": 2,
+    "title": "Envire - tutorial - Guy",
+    "user": 3,
+    "expected_submission_date": "2018-03-20",
+    "actual_submission_date": "2018-03-04"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 592,
+  "fields": {
+    "series": 8,
+    "title": "Qualitex - tutorial - Randall",
+    "user": 6,
+    "expected_submission_date": "2018-03-13",
+    "actual_submission_date": "2018-03-13"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 593,
+  "fields": {
+    "series": 4,
+    "title": "Rodeology - tutorial - Gross",
+    "user": 17,
+    "expected_submission_date": "2018-02-08",
+    "actual_submission_date": "2018-03-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 594,
+  "fields": {
+    "series": 7,
+    "title": "Austex - tutorial - Sophia",
+    "user": 28,
+    "expected_submission_date": "2018-02-03",
+    "actual_submission_date": "2018-03-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 595,
+  "fields": {
+    "series": 3,
+    "title": "Repetwire - tutorial - Lottie",
+    "user": 43,
+    "expected_submission_date": "2018-03-24",
+    "actual_submission_date": "2018-01-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 596,
+  "fields": {
+    "series": 9,
+    "title": "Isosphere - tutorial - Vazquez",
+    "user": 27,
+    "expected_submission_date": "2018-02-04",
+    "actual_submission_date": "2018-03-06"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 597,
+  "fields": {
+    "series": 2,
+    "title": "Bizmatic - tutorial - Agnes",
+    "user": 23,
+    "expected_submission_date": "2018-03-26",
+    "actual_submission_date": "2018-02-14"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 598,
+  "fields": {
+    "series": 7,
+    "title": "Digique - tutorial - Kidd",
+    "user": 30,
+    "expected_submission_date": "2018-03-02",
+    "actual_submission_date": "2018-03-27"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 599,
+  "fields": {
+    "series": 8,
+    "title": "Undertap - tutorial - Louisa",
+    "user": 30,
+    "expected_submission_date": "2018-02-22",
+    "actual_submission_date": "2018-02-08"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 600,
+  "fields": {
+    "series": 3,
+    "title": "Exospeed - tutorial - Sybil",
+    "user": 11,
+    "expected_submission_date": "2018-01-01",
+    "actual_submission_date": "2018-02-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 601,
+  "fields": {
+    "series": 5,
+    "title": "Deminimum - tutorial - Lina",
+    "user": 25,
+    "expected_submission_date": "2018-02-04",
+    "actual_submission_date": "2018-02-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 602,
+  "fields": {
+    "series": 1,
+    "title": "Endipine - tutorial - Bryan",
+    "user": 43,
+    "expected_submission_date": "2018-01-21",
+    "actual_submission_date": "2018-01-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 603,
+  "fields": {
+    "series": 5,
+    "title": "Genesynk - tutorial - Snyder",
+    "user": 40,
+    "expected_submission_date": "2018-01-09",
+    "actual_submission_date": "2018-02-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 604,
+  "fields": {
+    "series": 3,
+    "title": "Nurplex - tutorial - Fuentes",
+    "user": 44,
+    "expected_submission_date": "2018-01-14",
+    "actual_submission_date": "2018-03-01"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 605,
+  "fields": {
+    "series": 5,
+    "title": "Schoolio - tutorial - Maxwell",
+    "user": 36,
+    "expected_submission_date": "2018-01-28",
+    "actual_submission_date": "2018-03-23"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 606,
+  "fields": {
+    "series": 9,
+    "title": "Progenex - tutorial - Rutledge",
+    "user": 44,
+    "expected_submission_date": "2018-01-08",
+    "actual_submission_date": "2018-02-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 607,
+  "fields": {
+    "series": 2,
+    "title": "Zentility - tutorial - Alissa",
+    "user": 7,
+    "expected_submission_date": "2018-01-30",
+    "actual_submission_date": "2018-01-25"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 608,
+  "fields": {
+    "series": 9,
+    "title": "Eweville - tutorial - Parks",
+    "user": 16,
+    "expected_submission_date": "2018-01-21",
+    "actual_submission_date": "2018-01-05"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 609,
+  "fields": {
+    "series": 3,
+    "title": "Farmage - tutorial - Tonia",
+    "user": 25,
+    "expected_submission_date": "2018-02-16",
+    "actual_submission_date": "2018-01-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 610,
+  "fields": {
+    "series": 4,
+    "title": "Unisure - tutorial - Kate",
+    "user": 30,
+    "expected_submission_date": "2018-01-21",
+    "actual_submission_date": "2018-03-10"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 611,
+  "fields": {
+    "series": 1,
+    "title": "Colaire - tutorial - Oconnor",
+    "user": 2,
+    "expected_submission_date": "2018-01-31",
+    "actual_submission_date": "2018-02-15"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 612,
+  "fields": {
+    "series": 6,
+    "title": "Anarco - tutorial - Katina",
+    "user": 41,
+    "expected_submission_date": "2018-01-12",
+    "actual_submission_date": "2018-03-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 613,
+  "fields": {
+    "series": 7,
+    "title": "Nebulean - tutorial - Lawrence",
+    "user": 26,
+    "expected_submission_date": "2018-03-20",
+    "actual_submission_date": "2018-03-16"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 614,
+  "fields": {
+    "series": 5,
+    "title": "Entogrok - tutorial - Elizabeth",
+    "user": 45,
+    "expected_submission_date": "2018-01-26",
+    "actual_submission_date": "2018-03-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 615,
+  "fields": {
+    "series": 9,
+    "title": "Isonus - tutorial - Dawn",
+    "user": 34,
+    "expected_submission_date": "2018-01-25",
+    "actual_submission_date": "2018-01-02"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 616,
+  "fields": {
+    "series": 3,
+    "title": "Mondicil - tutorial - Melinda",
+    "user": 46,
+    "expected_submission_date": "2018-03-26",
+    "actual_submission_date": "2018-03-17"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 617,
+  "fields": {
+    "series": 3,
+    "title": "Letpro - tutorial - Brandie",
+    "user": 49,
+    "expected_submission_date": "2018-03-31",
+    "actual_submission_date": "2018-01-11"
+  }
+},
+{
+  "model": "payment.tutorialdetail",
+  "pk": 618,
+  "fields": {
+    "series": 5,
+    "title": "Polaria - tutorial - Hooper",
+    "user": 16,
+    "expected_submission_date": "2018-02-02",
+    "actual_submission_date": "2018-01-09"
+  }
+}
+]
